@@ -1,27 +1,27 @@
 [
   {
     "section": "Personal Growth",
-    "categories": ["Love Yourself", "Letting Go", "Self Respect", "Positive Thinking", "Introvert", "Empathetic"]
+    "categories": ["Love Yourself", "Letting Go", "Self Respect", "Positive Thinking", "Introvert", "Empathetic", "Empowerment", "Healing", "Self-awareness", "Courage"]
   },
   {
     "section": "Inspirational",
-    "categories": ["Women's Empowerment", "Passion", "Perseverance", "Success", "Failure", "Encouraging Words"]
+    "categories": ["Women's Empowerment", "Passion", "Perseverance", "Success", "Failure", "Encouraging Words", "Motivation", "Inspiration", "Action"]
   },
   {
     "section": "Productivity",
-    "categories": ["Focus", "Discipline", "Time Management", "Efficiency", "Goal Setting"]
+    "categories": ["Focus", "Discipline", "Time Management", "Efficiency", "Goal Setting", "Productivity"]
   },
   {
     "section": "Relationships",
-    "categories": ["Love", "Friendship", "Loyalty", "Trust", "Parenthood"]
+    "categories": ["Love", "Friendship", "Loyalty", "Trust", "Parenthood", "Relationships"]
   },
   {
     "section": "Philosophical",
-    "categories": ["Stoicism", "Existence", "Morality", "Knowledge", "Reflection", "Pre-Socratic"]
+    "categories": ["Stoicism", "Existence", "Morality", "Knowledge", "Reflection", "Pre-Socratic", "Philosophical", "Wisdom", "Humility"]
   },
   {
     "section": "Spiritual",
-    "categories": ["Faith", "Inner Peace", "Meditation", "Bible Verses", "Buddhism"]
+    "categories": ["Faith", "Inner Peace", "Meditation", "Bible Verses", "Buddhism", "Spiritual"]
   },
   {
     "section": "Moods",
@@ -44,7 +44,11 @@
     "categories": ["Exploration", "Adventure", "Travel", "Curiosity", "Discovery"]
   },
   {
-    "section": "Other",
-    "categories": []
+    "section": "Reflection",
+    "categories": ["Mindfulness", "Perspective", "Resilience", "Positivity"]
+  },
+  {
+    "section": "Compassion",
+    "categories": ["Empathy", "Kindness", "Compassion"]
   }
 ]
