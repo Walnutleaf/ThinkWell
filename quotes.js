@@ -1,4 +1,4 @@
-const quotesData = [
+[
     {
       "author": "Plato",
       "quotes": [
@@ -186,10 +186,4 @@ const quotesData = [
     "Nobody, as long as he moves about among the chaotic currents of life, is without trouble.",
     "A dream that is not understood remains a mere occurrence; understood, it becomes a living experience."
       ]
-    },
-  
-  
-  ];
-  
-  export default quotesData;
-  
+    
