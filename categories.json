@@ -1,11 +1,11 @@
 [
   {
     "section": "Personal Growth",
-    "categories": ["Love Yourself", "Letting Go", "Self Respect", "Positive Thinking", "Introversion", "Wisdom", "Reflection"]
+    "categories": ["Wisdom", "Reflection", "Love", "Positive Thinking", "Introversion", "Self-awareness", "Change", "Letting Go", "Self Respect"]
   },
   {
     "section": "Inspirational",
-    "categories": ["Women's Empowerment", "Passion", "Motivation", "Resilience", "Encouraging Words"]
+    "categories": ["Inspiration", "Motivation", "Resilience", "Women's Empowerment", "Passion", "Encouraging Words", "Empowerment"]
   },
   {
     "section": "Productivity",
@@ -13,7 +13,7 @@
   },
   {
     "section": "Relationships",
-    "categories": ["Parenthood", "Loyalty", "Compassion", "Friendship"]
+    "categories": ["Parenthood", "Loyalty", "Compassion", "Friendship", "Healing"]
   },
   {
     "section": "Philosophical",
@@ -21,10 +21,10 @@
   },
   {
     "section": "Spiritual",
-    "categories": ["Faith", "Bible Verses", "Buddhism", "Meditation"]
+    "categories": ["Faith", "Bible Verses", "Buddhism", "Meditation", "Mindfulness"]
   },
   {
     "section": "Other",
-    "categories": ["Life Lessons", "Anxiety", "Empathy"]
+    "categories": ["Life Lessons", "Anxiety", "Empathy", "Positivity"]
   }
 ]
