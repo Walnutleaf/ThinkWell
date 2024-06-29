@@ -1,4 +1,4 @@
-const moodQuotesData = [
+[
   {
     mood: 'Stress',
     quotes: [
@@ -139,11 +139,7 @@ const moodQuotesData = [
     'Action is the foundational key to all success.',
     'Great acts are made up of small deeds.',
     'You don’t have to be great to start, but you have to start to be great.',
-    ],
-    },
-    ];
-    
-    export default moodQuotesData;
+    ]
       
 
 
