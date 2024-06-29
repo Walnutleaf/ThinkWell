@@ -1,14 +1,30 @@
-{
-  "Personal Growth": ["Love Yourself", "Letting Go", "Self Respect", "Positive Thinking", "Introvert", "Empathetic", "Introvert", "Empath" ],
-  "Inspirational": ["Women's Empowerment", "Passion", "Perseverance", "Success", "Failure", "Encouraging Words"],
-  "Productivity": ["Focus", "Discipline", "Time Management", "Efficiency", "Goal Setting"],
-  "Relationships": ["Love", "Friendship", "Loyalty", "Trust", "Parenthood"],
-  "Philosophical": ["Stoicism", "Existence", "Morality", "Knowledge", "Reflection", "Schools of Thought"],
-  "Spiritual": ["Faith", "Inner Peace", "Meditation", "Bible Verses", "Buddhism"],
-  "Moods": ["Happiness", "Sadness", "Anger", "Fear", "Joy", "Anxiety"],
-  "Life Lessons": ["Life Lessons", "Experience", "Wisdom"],
-  "Career": ["Leadership", "Teamwork", "Innovation", "Career Growth", "Professionalism"],
-  "Health": ["Wellness", "Fitness", "Nutrition", "Mental Health", "Self-care"],
-  "Adventure": ["Exploration", "Adventure", "Travel", "Curiosity", "Discovery"]
-  "Other": []
-}
+[
+  {
+    "section": "Personal Growth",
+    "categories": ["Love Yourself", "Letting Go", "Self Respect", "Positive Thinking", "Introversion"]
+  },
+  {
+    "section": "Inspirational",
+    "categories": ["Women's Empowerment", "Passion", "Motivation", "Resilience", "Encouraging Words"]
+  },
+  {
+    "section": "Productivity",
+    "categories": ["Focus", "Time Management", "Goal Setting", "Success"]
+  },
+  {
+    "section": "Relationships",
+    "categories": ["Parenthood", "Loyalty", "Compassion", "Friendship"]
+  },
+  {
+    "section": "Philosophical",
+    "categories": ["Stoicism", "Existentialism", "Humanism", "Nihilism"]
+  },
+  {
+    "section": "Spiritual",
+    "categories": ["Faith", "Bible Verses", "Buddhism", "Meditation"]
+  },
+  {
+    "section": "Other",
+    "categories": ["Life Lessons", "Anxiety", "Empathy"]
+  }
+]
