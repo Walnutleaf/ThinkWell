@@ -5,13 +5,13 @@
     "quotes": [
       {
         "text": "Wise men speak because they have something to say; fools because they have to say something.",
-        "mood": ["Wisdom", "Reflection"],
+        "category": ["Wisdom", "Reflection"],
         "explanation": "This quote emphasizes the importance of speaking with purpose and wisdom, rather than speaking out of compulsion.",
         "image": "https://example.com/image1.jpg"
       },
       {
         "text": "At the touch of love, everyone becomes a poet.",
-        "mood": ["Love", "Inspiration"],
+        "category": ["Love", "Inspiration"],
         "explanation": "Plato highlights the transformative power of love, suggesting it brings out creativity and emotion in people.",
         "image": "https://example.com/image2.jpg"
       }
@@ -23,13 +23,13 @@
     "quotes": [
       {
         "text": "He who has a why to live can bear almost any how.",
-        "mood": ["Motivation", "Resilience"],
+        "category": ["Motivation", "Resilience"],
         "explanation": "Nietzsche explains that having a purpose or reason in life helps one endure hardships.",
         "image": "https://example.com/image3.jpg"
       },
       {
         "text": "Without music, life would be a mistake.",
-        "mood": ["Inspiration", "Reflection"],
+        "category": ["Inspiration", "Reflection"],
         "explanation": "Nietzsche emphasizes the profound impact of music on human life and its essential role in our existence.",
         "image": "https://example.com/image4.jpg"
       }
@@ -41,13 +41,13 @@
     "quotes": [
       {
         "text": "The happiness of your life depends upon the quality of your thoughts.",
-        "mood": ["Positivity", "Mindfulness"],
+        "category": ["Positivity", "Mindfulness"],
         "explanation": "Marcus Aurelius asserts that our thoughts shape our happiness and overall life experience.",
         "image": "https://example.com/image5.jpg"
       },
       {
         "text": "The universe is change; our life is what our thoughts make it.",
-        "mood": ["Change", "Mindfulness"],
+        "category": ["Change", "Mindfulness"],
         "explanation": "This quote speaks to the ever-changing nature of the universe and the power of our thoughts in shaping our lives.",
         "image": "https://example.com/image6.jpg"
       }
@@ -59,13 +59,13 @@
     "quotes": [
       {
         "text": "I am not what happened to me, I am what I choose to become.",
-        "mood": ["Empowerment", "Healing"],
+        "category": ["Empowerment", "Healing"],
         "explanation": "Jung speaks about personal agency and the ability to shape one's future despite past experiences.",
         "image": "https://example.com/image7.jpg"
       },
       {
         "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
-        "mood": ["Self-awareness", "Healing"],
+        "category": ["Self-awareness", "Healing"],
         "explanation": "Jung highlights the importance of understanding our own flaws and struggles to better empathize with others.",
         "image": "https://example.com/image8.jpg"
       }
