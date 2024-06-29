@@ -1,30 +1,52 @@
-[
-  {
-    "section": "Personal Growth",
-    "categories": ["Wisdom", "Reflection", "Love", "Positive Thinking", "Introversion", "Self-awareness", "Change", "Letting Go", "Self Respect", "Empathy", "Test2"]
-  },
-  {
-    "section": "Inspirational",
-    "categories": ["Inspiration", "Motivation", "Resilience", "Women's Empowerment", "Passion", "Encouraging Words", "Empowerment"]
-  },
-  {
-    "section": "Productivity",
-    "categories": ["Focus", "Time Management", "Goal Setting", "Success"]
-  },
-  {
-    "section": "Relationships",
-    "categories": ["Parenthood", "Loyalty", "Compassion", "Friendship", "Healing"]
-  },
-  {
-    "section": "Philosophical",
-    "categories": ["Stoicism", "Existentialism", "Humanism", "Nihilism"]
-  },
-  {
-    "section": "Spiritual",
-    "categories": ["Faith", "Bible Verses", "Buddhism", "Meditation", "Mindfulness"]
-  },
-  {
-    "section": "Other",
-    "categories": ["Life Lessons", "Anxiety", "Positivity"]
-  }
-]
+{
+  "sections": [
+    {
+      "section": "Personal Growth",
+      "categories": ["Love Yourself", "Letting Go", "Self Respect", "Positive Thinking", "Introvert", "Empathetic"]
+    },
+    {
+      "section": "Inspirational",
+      "categories": ["Women's Empowerment", "Passion", "Perseverance", "Success", "Failure", "Encouraging Words"]
+    },
+    {
+      "section": "Productivity",
+      "categories": ["Focus", "Discipline", "Time Management", "Efficiency", "Goal Setting"]
+    },
+    {
+      "section": "Relationships",
+      "categories": ["Love", "Friendship", "Loyalty", "Trust", "Parenthood"]
+    },
+    {
+      "section": "Philosophical",
+      "categories": ["Stoicism", "Existence", "Morality", "Knowledge", "Reflection", "Pre-Socratic"]
+    },
+    {
+      "section": "Spiritual",
+      "categories": ["Faith", "Inner Peace", "Meditation", "Bible Verses", "Buddhism"]
+    },
+    {
+      "section": "Moods",
+      "categories": ["Happiness", "Sadness", "Anger", "Fear", "Joy", "Anxiety"]
+    },
+    {
+      "section": "Life Lessons",
+      "categories": ["Life Lessons", "Experience", "Wisdom"]
+    },
+    {
+      "section": "Career",
+      "categories": ["Leadership", "Teamwork", "Innovation", "Career Growth", "Professionalism"]
+    },
+    {
+      "section": "Health",
+      "categories": ["Wellness", "Fitness", "Nutrition", "Mental Health", "Self-care"]
+    },
+    {
+      "section": "Adventure",
+      "categories": ["Exploration", "Adventure", "Travel", "Curiosity", "Discovery"]
+    },
+    {
+      "section": "Other",
+      "categories": []
+    }
+  ]
+}
