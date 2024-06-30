@@ -27,6 +27,24 @@
                 ],
                 "explanation": "Plato underscores the importance of self-discipline and self-control. The idea is that mastering oneself, one's impulses, and desires is the most significant form of victory.",
                 "image": "https://example.com/image3.jpg"
+            },
+            {
+                "text": "Courage is knowing what not to fear.",
+                "category": [
+                    "Courage",
+                    "Wisdom"
+                ],
+                "explanation": "Plato emphasizes the importance of discernment in bravery, suggesting true courage involves understanding which fears are unfounded.",
+                "image": "https://example.com/image_plato_4.jpg"
+            },
+            {
+                "text": "The measure of a man is what he does with power.",
+                "category": [
+                    "Leadership",
+                    "Character"
+                ],
+                "explanation": "Plato highlights the significance of one's actions when in a position of authority as a true measure of character.",
+                "image": "https://example.com/image_plato_5.jpg"
             }
         ]
     },
@@ -49,6 +67,24 @@
                 ],
                 "explanation": "Nietzsche's quote speaks to the inevitability of suffering in life and the importance of finding meaning in it. He suggests that enduring and overcoming suffering is a crucial part of human existence.",
                 "image": "https://example.com/image6.jpg"
+            },
+            {
+                "text": "He who has a why to live can bear almost any how.",
+                "category": [
+                    "Purpose",
+                    "Life Lessons"
+                ],
+                "explanation": "Nietzsche emphasizes the importance of having a purpose in life, suggesting that it helps one endure any challenges.",
+                "image": "https://example.com/image_nietzsche_3.jpg"
+            },
+            {
+                "text": "That which does not kill us makes us stronger.",
+                "category": [
+                    "Resilience",
+                    "Life Lessons"
+                ],
+                "explanation": "Nietzsche speaks to the resilience of the human spirit, suggesting that enduring hardships strengthens us.",
+                "image": "https://example.com/image_nietzsche_4.jpg"
             }
         ]
     },
@@ -63,6 +99,24 @@
                 ],
                 "explanation": "Marcus Aurelius emphasizes the importance of action over debate. Instead of discussing the attributes of a good person, one should strive to embody those attributes and take meaningful action.",
                 "image": "https://example.com/image9.jpg"
+            },
+            {
+                "text": "The happiness of your life depends upon the quality of your thoughts.",
+                "category": [
+                    "Happiness",
+                    "Wisdom"
+                ],
+                "explanation": "Aurelius highlights the power of positive thinking and its impact on one's overall happiness.",
+                "image": "https://example.com/image_aurelius_2.jpg"
+            },
+            {
+                "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+                "category": [
+                    "Inner Peace",
+                    "Strength"
+                ],
+                "explanation": "Aurelius emphasizes the importance of controlling one's mind rather than external circumstances to find true strength.",
+                "image": "https://example.com/image_aurelius_3.jpg"
             }
         ]
     },
@@ -77,6 +131,24 @@
                 ],
                 "explanation": "Jung emphasizes the journey of self-discovery and the importance of becoming one's true self. He suggests that living authentically is the greatest privilege one can achieve.",
                 "image": "https://example.com/image12.jpg"
+            },
+            {
+                "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+                "category": [
+                    "Self Respect",
+                    "Wisdom"
+                ],
+                "explanation": "Jung underscores the importance of self-reflection for clarity and awakening, contrasting it with mere external dreaming.",
+                "image": "https://example.com/image_jung_2.jpg"
+            },
+            {
+                "text": "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
+                "category": [
+                    "Self Awareness",
+                    "Wisdom"
+                ],
+                "explanation": "Jung speaks about the impact of the unconscious mind on one's life and the necessity of bringing it into awareness to take control.",
+                "image": "https://example.com/image_jung_3.jpg"
             }
         ]
     },
@@ -99,6 +171,24 @@
                 ],
                 "explanation": "Einstein encourages focusing on personal values and integrity rather than solely on achieving success. He believes that being a person of value contributes more meaningfully to society and personal fulfillment.",
                 "image": "https://example.com/image15.jpg"
+            },
+            {
+                "text": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+                "category": [
+                    "Innovation",
+                    "Knowledge"
+                ],
+                "explanation": "Einstein emphasizes the value of curiosity and continuous questioning as fundamental to intellectual growth and discovery.",
+                "image": "https://example.com/image_einstein_4.jpg"
+            },
+            {
+                "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+                "category": [
+                    "Perseverance",
+                    "Life Lessons"
+                ],
+                "explanation": "Einstein uses a simple metaphor to convey the importance of continuous effort and progress in life.",
+                "image": "https://example.com/image_einstein_5.jpg"
             }
         ]
     },
@@ -123,6 +213,24 @@
                 "category": [],
                 "explanation": "Similar to her other quotes, Angelou emphasizes the importance of enduring through difficulties and maintaining strength and resolve in the face of challenges.",
                 "image": "https://example.com/image18.jpg"
+            },
+            {
+                "text": "You alone are enough. You have nothing to prove to anybody.",
+                "category": [
+                    "Self Respect",
+                    "Empowerment"
+                ],
+                "explanation": "Angelou emphasizes self-worth and the importance of self-acceptance without seeking validation from others.",
+                "image": "https://example.com/image_angelou_4.jpg"
+            },
+            {
+                "text": "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.",
+                "category": [
+                    "Life Lessons",
+                    "Passion"
+                ],
+                "explanation": "Angelou speaks about living life fully and with purpose, incorporating passion, compassion, humor, and style.",
+                "image": "https://example.com/image_angelou_5.jpg"
             }
         ]
     },
@@ -153,6 +261,24 @@
                 ],
                 "explanation": "Lao Tzu emphasizes the importance of self-knowledge and self-mastery. True wisdom and power come from understanding and controlling oneself, rather than merely exerting influence over others.",
                 "image": "https://example.com/image21.jpg"
+            },
+            {
+                "text": "Nature does not hurry, yet everything is accomplished.",
+                "category": [
+                    "Patience",
+                    "Wisdom"
+                ],
+                "explanation": "Lao Tzu highlights the natural efficiency of patience and the idea that things will come to fruition in their own time.",
+                "image": "https://example.com/image_lao_tzu_4.jpg"
+            },
+            {
+                "text": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
+                "category": [
+                    "Leadership",
+                    "Wisdom"
+                ],
+                "explanation": "Lao Tzu underscores the value of subtle and effective leadership that empowers others.",
+                "image": "https://example.com/image_lao_tzu_5.jpg"
             }
         ]
     },
@@ -175,6 +301,24 @@
                 ],
                 "explanation": "Rumi speaks to the transient nature of loss and the idea that everything we lose is transformed into something new. This perspective encourages acceptance and the understanding that change is a natural part of life.",
                 "image": "https://example.com/image24.jpg"
+            },
+            {
+                "text": "The wound is the place where the Light enters you.",
+                "category": [
+                    "Healing",
+                    "Wisdom"
+                ],
+                "explanation": "Rumi suggests that through suffering and wounds, one can find enlightenment and growth.",
+                "image": "https://example.com/image_rumi_3.jpg"
+            },
+            {
+                "text": "Let the beauty of what you love be what you do.",
+                "category": [
+                    "Passion",
+                    "Life Lessons"
+                ],
+                "explanation": "Rumi encourages aligning one's work with their passions, finding beauty and fulfillment in doing what one loves.",
+                "image": "https://example.com/image_rumi_4.jpg"
             }
         ]
     },
@@ -198,6 +342,24 @@
                 ],
                 "explanation": "Emerson highlights the challenge and importance of maintaining one's individuality and authenticity in a conformist society. This quote celebrates the courage to stay true to oneself despite external pressures. It encourages individuals to embrace their unique identities and values, which is a significant achievement in personal growth and self-respect.",
                 "image": "https://example.com/image33.jpg"
+            },
+            {
+                "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+                "category": [
+                    "Self Respect",
+                    "Wisdom"
+                ],
+                "explanation": "Emerson emphasizes the importance of inner strength and character over external circumstances.",
+                "image": "https://example.com/image_emerson_3.jpg"
+            },
+            {
+                "text": "The only way to have a friend is to be one.",
+                "category": [
+                    "Friendship",
+                    "Wisdom"
+                ],
+                "explanation": "Emerson speaks to the reciprocal nature of friendship and the importance of being a good friend to cultivate meaningful relationships.",
+                "image": "https://example.com/image_emerson_4.jpg"
             }
         ]
     },
@@ -220,6 +382,24 @@
                 ],
                 "explanation": "Aristotle suggests that acquiring knowledge leads to the realization of the vastness of the unknown. True wisdom comes with humility, as one understands the limits of their knowledge. This quote promotes continuous learning and a humble approach to one's intellectual pursuits.",
                 "image": "https://example.com/image35.jpg"
+            },
+            {
+                "text": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+                "category": [
+                    "Wisdom",
+                    "Knowledge"
+                ],
+                "explanation": "Aristotle highlights the importance of intellectual openness and critical thinking in the pursuit of knowledge.",
+                "image": "https://example.com/image_aristotle_3.jpg"
+            },
+            {
+                "text": "Patience is bitter, but its fruit is sweet.",
+                "category": [
+                    "Patience",
+                    "Wisdom"
+                ],
+                "explanation": "Aristotle acknowledges the difficulty of practicing patience but assures that its outcomes are rewarding.",
+                "image": "https://example.com/image_aristotle_4.jpg"
             }
         ]
     },
@@ -364,6 +544,24 @@
                 ],
                 "explanation": "Lao Tzu speaks to the transformative power of releasing one's preconceived notions and limitations. This quote suggests that personal growth and self-actualization come from letting go of rigid identities and embracing the potential for change. It encourages individuals to be open to new possibilities and to evolve beyond their current selves.",
                 "image": "https://example.com/image59.jpg"
+            },
+            {
+                "text": "Nature does not hurry, yet everything is accomplished.",
+                "category": [
+                    "Patience",
+                    "Wisdom"
+                ],
+                "explanation": "Lao Tzu highlights the natural efficiency of patience and the idea that things will come to fruition in their own time.",
+                "image": "https://example.com/image_lao_tzu_4.jpg"
+            },
+            {
+                "text": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
+                "category": [
+                    "Leadership",
+                    "Wisdom"
+                ],
+                "explanation": "Lao Tzu underscores the value of subtle and effective leadership that empowers others.",
+                "image": "https://example.com/image_lao_tzu_5.jpg"
             }
         ]
     },
@@ -402,6 +600,24 @@
                 ],
                 "explanation": "Angelou underscores the inevitability of encountering setbacks but emphasizes the importance of perseverance. This quote suggests that while failure is a part of life, it should not lead to a sense of defeat. It encourages individuals to continue striving towards their goals despite obstacles, maintaining resilience and determination.",
                 "image": "https://example.com/image66.jpg"
+            },
+            {
+                "text": "You alone are enough. You have nothing to prove to anybody.",
+                "category": [
+                    "Self Respect",
+                    "Empowerment"
+                ],
+                "explanation": "Angelou emphasizes self-worth and the importance of self-acceptance without seeking validation from others.",
+                "image": "https://example.com/image_angelou_4.jpg"
+            },
+            {
+                "text": "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.",
+                "category": [
+                    "Life Lessons",
+                    "Passion"
+                ],
+                "explanation": "Angelou speaks about living life fully and with purpose, incorporating passion, compassion, humor, and style.",
+                "image": "https://example.com/image_angelou_5.jpg"
             }
         ]
     },
@@ -460,6 +676,24 @@
                 ],
                 "explanation": "Einstein emphasizes the importance of personal values and integrity over conventional measures of success. This quote suggests that true worth lies in one's character and contributions to others, rather than in external achievements. It encourages individuals to focus on being valuable and principled, which ultimately leads to a more meaningful and impactful life.",
                 "image": "https://example.com/image75.jpg"
+            },
+            {
+                "text": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+                "category": [
+                    "Innovation",
+                    "Knowledge"
+                ],
+                "explanation": "Einstein emphasizes the value of curiosity and continuous questioning as fundamental to intellectual growth and discovery.",
+                "image": "https://example.com/image_einstein_4.jpg"
+            },
+            {
+                "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+                "category": [
+                    "Perseverance",
+                    "Life Lessons"
+                ],
+                "explanation": "Einstein uses a simple metaphor to convey the importance of continuous effort and progress in life.",
+                "image": "https://example.com/image_einstein_5.jpg"
             }
         ]
     },
@@ -474,6 +708,24 @@
                 ],
                 "explanation": "Rumi encourages following one's true passions and inner desires. This quote suggests that listening to the quiet, intuitive calls of what you love will guide you towards fulfillment and authenticity. It promotes trusting in your inner voice and passions as a path to genuine happiness.",
                 "image": "https://example.com/image77.jpg"
+            },
+            {
+                "text": "The wound is the place where the Light enters you.",
+                "category": [
+                    "Healing",
+                    "Wisdom"
+                ],
+                "explanation": "Rumi suggests that through suffering and wounds, one can find enlightenment and growth.",
+                "image": "https://example.com/image_rumi_3.jpg"
+            },
+            {
+                "text": "Let the beauty of what you love be what you do.",
+                "category": [
+                    "Passion",
+                    "Life Lessons"
+                ],
+                "explanation": "Rumi encourages aligning one's work with their passions, finding beauty and fulfillment in doing what one loves.",
+                "image": "https://example.com/image_rumi_4.jpg"
             }
         ]
     },
@@ -599,6 +851,24 @@
                 ],
                 "explanation": "Emerson advocates for pioneering and forging one's unique path. This quote suggests that true innovation and individuality come from creating new ways rather than following existing ones. It encourages individuals to be trailblazers, taking bold steps to explore uncharted territories.",
                 "image": "https://example.com/image99.jpg"
+            },
+            {
+                "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+                "category": [
+                    "Self Respect",
+                    "Wisdom"
+                ],
+                "explanation": "Emerson emphasizes the importance of inner strength and character over external circumstances.",
+                "image": "https://example.com/image_emerson_3.jpg"
+            },
+            {
+                "text": "The only way to have a friend is to be one.",
+                "category": [
+                    "Friendship",
+                    "Wisdom"
+                ],
+                "explanation": "Emerson speaks to the reciprocal nature of friendship and the importance of being a good friend to cultivate meaningful relationships.",
+                "image": "https://example.com/image_emerson_4.jpg"
             }
         ]
     },
