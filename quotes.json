@@ -543,6 +543,62 @@
     "explanation": "This quote underscores the ripple effect of positive actions, suggesting that doing good not only empowers us but also motivates others to act similarly.",
     "reference": "The Republic, Book VI"
   }
+            ]
+    },   
+     {
+        "author": "Plato Paraphrase",
+        "type": "Philosopher",
+        "quotes": [
+             {
+    "text": "The truth is that the State in which the rulers are most reluctant to govern is always the best and most quietly governed, and the State in which they are most eager, the worst.",
+    "category": [
+      "Leadership",
+      "Wisdom"
+    ],
+    "explanation": "This idea suggests that the best rulers are those who understand the burden of leadership and accept it out of duty rather than desire for personal gain. It implies that those eager for power may not have the state's best interests at heart.",
+    "reference": "Book VII of Plato's Republic",
+    "original_text": "The truth is that the State in which the rulers are most reluctant to govern is always the best and most quietly governed, and the State in which they are most eager, the worst."
+  },
+  {
+    "text": "Education isn't putting knowledge into souls that lack it, like putting sight into blind eyes.",
+    "category": [
+      "Wisdom",
+      "Discovery"
+    ],
+    "explanation": "Plato emphasizes that true education is about developing understanding and wisdom, rather than simply memorizing facts. It's about awakening the mind's inherent abilities to perceive truth.",
+    "reference": "Book VII of Plato's Republic",
+    "original_text": "Education isn't what some people declare it to be, namely, putting knowledge into souls that lack it, like putting sight into blind eyes."
+  },
+  {
+    "text": "And so tyranny naturally arises out of democracy, and the most aggravated form of tyranny and slavery out of the most extreme form of liberty.",
+    "category": [
+      "Ancient Greek",
+      "Leadership"
+    ],
+    "explanation": "This concept reflects Plato's critique of democracy. He argues that extreme liberty can lead to chaos, which people might then try to escape by embracing authoritarian rule.",
+    "reference": "Book VIII of Plato's Republic",
+    "original_text": "And so tyranny naturally arises out of democracy, and the most aggravated form of tyranny and slavery out of the most extreme form of liberty."
+  },
+  {
+    "text": "Justice is having and doing what belongs to oneself.",
+    "category": [
+      "Wisdom",
+      "Ancient Greek"
+    ],
+    "explanation": "This idea is central to Plato's concept of a just society. It suggests that harmony and efficiency are achieved when individuals perform the roles they're best suited for, without interfering with others' roles.",
+    "reference": "Book IV of Plato's Republic",
+    "original_text": "And the justice which we were seeking is acknowledged by us to be the having and doing what is a man's own, and belongs to him?"
+  },
+  {
+    "text": "When reason and spirit are subjected, one becomes full of low desires and small, false pleasures.",
+    "category": [
+      "Self-care",
+      "Mental Health"
+    ],
+    "explanation": "Plato argues that when we let our base desires overrule our reason and spirit, we become slaves to trivial and harmful pleasures. This emphasizes the importance of maintaining control over our impulses for personal and societal well-being.",
+    "reference": "Book IX of Plato's Republic",
+    "original_text": "And when he has made reason and spirit subject, he becomes full of low desires and small and false pleasures, which are the lowest and worst."
+  }
 ]
     }
         ]
