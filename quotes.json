@@ -549,55 +549,105 @@
         "author": "Plato Paraphrase",
         "type": "Philosopher",
         "quotes": [
-             {
-    "text": "The truth is that the State in which the rulers are most reluctant to govern is always the best and most quietly governed, and the State in which they are most eager, the worst.",
+              {
+    "text": "The old have a greater sense of calm and freedom when the passions relax their hold.",
+    "category": [
+      "Wisdom",
+      "Aging"
+    ],
+    "explanation": "This highlight reflects on the benefits of aging, suggesting that as one grows older, they may find more peace and liberation from the intense emotions and desires of youth.",
+    "reference": "Book I of Plato's Republic",
+    "original_text": "For certainly old age has a great sense of calm and freedom; when the passions relax their hold, then, as Sophocles says, we are freed from the grasp not of one mad master only, but of many."
+  },
+  {
+    "text": "The greatest blessing of wealth is that it frees us from doing injustice and enables us to depart to the next world without fear.",
+    "category": [
+      "Ethics",
+      "Wealth"
+    ],
+    "explanation": "This passage suggests that the true value of wealth lies not in luxury, but in the ability to live honestly and face death without regret or fear of punishment.",
+    "reference": "Book I of Plato's Republic",
+    "original_text": "And the great blessing of riches, I do not say to every man, but to a good man, is, that he has had no occasion to deceive or to defraud others, either intentionally or unintentionally; and when he departs to the world below he is not in any apprehension about offerings due to the gods or debts which he owes to men."
+  },
+  {
+    "text": "Is it just to give back to a person what is owed if they are not in their right mind?",
+    "category": [
+      "Justice",
+      "Ethics"
+    ],
+    "explanation": "This question challenges simplistic notions of justice, suggesting that context and consequences must be considered when determining right action.",
+    "reference": "Book I of Plato's Republic",
+    "original_text": "Suppose that a friend when in his right mind has deposited arms with me and he asks for them when he is not in his right mind, ought I to give them back to him? No one would say that I ought or that I should be right in doing so, any more than they would say that I ought always to speak the truth to one who is in his condition."
+  },
+  {
+    "text": "The art of payment has the special function of giving pay, but we do not confuse this with other arts.",
+    "category": [
+      "Philosophy",
+      "Economics"
+    ],
+    "explanation": "This passage distinguishes between the intrinsic function of an art or skill and the payment received for it, emphasizing that payment is not the primary purpose of any craft.",
+    "reference": "Book I of Plato's Republic",
+    "original_text": "And the art of payment has the special function of giving pay: but we do not confuse this with other arts, any more than the art of the pilot is to be confused with the art of medicine, because the health of the pilot may be improved by a sea voyage."
+  },
+  {
+    "text": "No artist or ruler aims at their own advantage, but at the advantage of their subject.",
     "category": [
       "Leadership",
-      "Wisdom"
+      "Ethics"
     ],
-    "explanation": "This idea suggests that the best rulers are those who understand the burden of leadership and accept it out of duty rather than desire for personal gain. It implies that those eager for power may not have the state's best interests at heart.",
-    "reference": "Book VII of Plato's Republic",
+    "explanation": "This principle argues that true professionals and leaders should prioritize the welfare of those they serve over their personal gain.",
+    "reference": "Book I of Plato's Republic",
+    "original_text": "I conceived that the art of the ruler, considered as ruler, whether in a state or in private life, could only regard the good of his flock or subjects; whereas you seem to think that the rulers in states, that is to say, the true rulers, like being in authority."
+  },
+  {
+    "text": "The best rulers are those who are reluctant to govern.",
+    "category": [
+      "Leadership",
+      "Governance"
+    ],
+    "explanation": "This paradoxical idea suggests that those best suited to rule are those who do not seek power for its own sake, but accept it as a duty.",
+    "reference": "Book I of Plato's Republic",
     "original_text": "The truth is that the State in which the rulers are most reluctant to govern is always the best and most quietly governed, and the State in which they are most eager, the worst."
   },
   {
-    "text": "Education isn't putting knowledge into souls that lack it, like putting sight into blind eyes.",
+    "text": "Good people are unwilling to rule for money or honor, but to avoid the penalty of being ruled by someone worse.",
     "category": [
-      "Wisdom",
-      "Discovery"
+      "Leadership",
+      "Ethics"
     ],
-    "explanation": "Plato emphasizes that true education is about developing understanding and wisdom, rather than simply memorizing facts. It's about awakening the mind's inherent abilities to perceive truth.",
-    "reference": "Book VII of Plato's Republic",
-    "original_text": "Education isn't what some people declare it to be, namely, putting knowledge into souls that lack it, like putting sight into blind eyes."
+    "explanation": "This passage explains why virtuous individuals might accept leadership roles, not for personal gain, but to prevent less capable or ethical people from taking power.",
+    "reference": "Book I of Plato's Republic",
+    "original_text": "And for this reason, money and honour have no attraction for them; good men do not wish to be openly demanding payment for governing and so to get the name of hirelings, nor by secretly helping themselves out of the public revenues to get the name of thieves. And not being ambitious they do not care about honour. Wherefore necessity must be laid upon them, and they must be induced to serve from the fear of punishment."
   },
   {
-    "text": "And so tyranny naturally arises out of democracy, and the most aggravated form of tyranny and slavery out of the most extreme form of liberty.",
+    "text": "The worst evil for a state is that which tears it apart and makes it many instead of one.",
     "category": [
-      "Ancient Greek",
-      "Leadership"
+      "Politics",
+      "Social harmony"
     ],
-    "explanation": "This concept reflects Plato's critique of democracy. He argues that extreme liberty can lead to chaos, which people might then try to escape by embracing authoritarian rule.",
-    "reference": "Book VIII of Plato's Republic",
-    "original_text": "And so tyranny naturally arises out of democracy, and the most aggravated form of tyranny and slavery out of the most extreme form of liberty."
+    "explanation": "This idea emphasizes the importance of unity in a state, suggesting that division and factionalism are the greatest threats to its stability and success.",
+    "reference": "Book II of Plato's Republic",
+    "original_text": "Can there be any greater evil than discord and distraction and plurality where unity ought to reign? or any greater good than the bond of unity?"
   },
   {
-    "text": "Justice is having and doing what belongs to oneself.",
+    "text": "A state arises because no individual is self-sufficient; we all have many wants.",
     "category": [
-      "Wisdom",
-      "Ancient Greek"
+      "Society",
+      "Economics"
     ],
-    "explanation": "This idea is central to Plato's concept of a just society. It suggests that harmony and efficiency are achieved when individuals perform the roles they're best suited for, without interfering with others' roles.",
-    "reference": "Book IV of Plato's Republic",
-    "original_text": "And the justice which we were seeking is acknowledged by us to be the having and doing what is a man's own, and belongs to him?"
+    "explanation": "This passage explains the fundamental reason for the formation of societies, based on the interdependence of individuals with diverse needs and skills.",
+    "reference": "Book II of Plato's Republic",
+    "original_text": "A State, I said, arises, as I conceive, out of the needs of mankind; no one is self-sufficing, but all of us have many wants."
   },
   {
-    "text": "When reason and spirit are subjected, one becomes full of low desires and small, false pleasures.",
+    "text": "The creation of a luxurious state may help us see how justice and injustice originate in societies.",
     "category": [
-      "Self-care",
-      "Mental Health"
+      "Justice",
+      "Social theory"
     ],
-    "explanation": "Plato argues that when we let our base desires overrule our reason and spirit, we become slaves to trivial and harmful pleasures. This emphasizes the importance of maintaining control over our impulses for personal and societal well-being.",
-    "reference": "Book IX of Plato's Republic",
-    "original_text": "And when he has made reason and spirit subject, he becomes full of low desires and small and false pleasures, which are the lowest and worst."
+    "explanation": "This suggestion implies that examining a more complex, affluent society might reveal the roots of justice and injustice more clearly than a simpler one.",
+    "reference": "Book II of Plato's Republic",
+    "original_text": "I have no objection; for I suspect that many will not be satisfied with the simpler way of life. They will be for adding sofas, and tables, and other furniture; also dainties, and perfumes, and incense, and courtesans, and cakes, all these not of one sort only, but in every variety; we must go beyond the necessaries of which I was at first speaking. Now I reflect, that this is not merely the growth of a State, but of a luxurious State; and possibly there is no harm in this, for in such a State we shall be more likely to see how justice and injustice originate."
   }
 ]
     }
