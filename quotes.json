@@ -789,6 +789,120 @@
 "explanation": "This quote discusses the importance of controlling narratives about death and the afterlife. Socrates suggests that overly negative portrayals could harm the courage of future defenders, emphasizing the role of cultural narratives in shaping societal values.",
 "reference": "The Republic, Book III"
 }
+            ]
+    },   
+     {
+        "author": "Carl Jung - Unconscious",
+        "type": "Psychologist",
+        "quotes": [
+            {
+        "text": "The tree of life is probably, first of all, a fruit-bearing genealogical tree, that is, a mother-image. Countless myths prove the derivation of man from trees; many myths show how the hero is enclosed in the maternal tree—thus dead Osiris in the column, Adonis in the myrtle, etc.",
+        "category": ["Discovery"],
+        "explanation": "This highlight discusses the tree of life as a mother symbol in mythology, showing how heroes are often associated with or enclosed in trees, representing a maternal image.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The sexual libido regressing to the parents appears as the incest tendency. The reason this path is so easily travelled is due to the enormous indolence of mankind, which will relinquish no object of the past, but will hold it fast forever.",
+        "category": ["Love", "Discovery"],
+        "explanation": "Jung explains how the concept of incest in mythology and psychology relates to the human tendency to cling to the past, particularly to parental figures.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The Dioscuri represent a similar idea, although in a somewhat different form; the one sun is always mortal, the other immortal. As this entire sun mythology is merely a psychologic projection to the heavens, the fundamental thesis probably is as follows; just as man consists of a mortal and immortal part, so the sun is a pair of brothers, one being mortal, the other immortal.",
+        "category": ["Discovery"],
+        "explanation": "This passage discusses the concept of duality in sun mythology, relating it to the human psyche's mortal and immortal aspects.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "Man as an individual is a suspicious phenomenon, the right of whose existence from a natural biological standpoint could be seriously contested, because, from this point of view, the individual is only a race atom, and has a significance only as a mass constituent.",
+        "category": ["Discovery"],
+        "explanation": "Jung challenges the significance of individual existence from a biological standpoint, suggesting that humans may only have meaning as part of a larger collective.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The religious myth meets us here as one of the greatest and most significant human institutions which, despite misleading symbols, nevertheless gives man assurance and strength, so that he may not be overwhelmed by the monsters of the universe.",
+        "category": ["Positive Thinking"],
+        "explanation": "This highlight emphasizes the importance of religious myths in providing humans with psychological strength and assurance in the face of life's uncertainties.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The primitive power which Job's Hymn of Creation vindicates, the unconditional and inexorable, the unjust and the superhuman, are truly and rightly attributes of libido, which 'lead us unto life,' which 'let the poor be guilty,' and against which struggle is in vain.",
+        "category": ["Discovery"],
+        "explanation": "Jung relates the concept of libido to primitive power as described in the Book of Job, suggesting its overwhelming and inescapable nature.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The Sphinx, in its traditional form, is a half-human, half-animal creature, which we must, in part, interpret in the way that is applicable to such phantastic products.",
+        "category": ["Discovery"],
+        "explanation": "This passage introduces the interpretation of the Sphinx as a symbolic creature, bridging human and animal natures.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The city is a maternal symbol, a woman who fosters the inhabitants as children. It is, therefore, intelligible that the two mother goddesses, Rhea and Cybele, both wear the wall crown.",
+        "category": ["Discovery"],
+        "explanation": "Jung explains the symbolism of cities as maternal figures in mythology and psychology.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The conflict, which is the condition of every neurosis, is lacking. The resistance against loving produces the inability to love.",
+        "category": ["Love"],
+        "explanation": "This highlight discusses the relationship between internal conflict, resistance, and the capacity for love in the context of neurosis.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+              {
+        "text": "The sacrifice of the horse: sacrifice of the animal nature—The sacrifice of the 'mother libido': of the son to the mother—Superiority of Christian symbol: the sacrifice, not only of lower nature, but the whole personality",
+        "category": ["Perseverance"],
+        "explanation": "Jung compares different forms of symbolic sacrifice in various religions, highlighting the comprehensiveness of the Christian symbol.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The power of incest prohibition created the self-conscious individual—It was the coercion to domestication",
+        "category": ["Discovery"],
+        "explanation": "This passage suggests that the incest taboo played a crucial role in the development of self-consciousness and human civilization.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The regression resulting from the incest prohibition leads, in this case, to the new valuation of the mother; this time, however, not as a sexual object, but as a nourisher.",
+        "category": ["Love"],
+        "explanation": "Jung discusses how the incest prohibition leads to a transformation in the perception of the mother figure, from a sexual object to a nurturing one.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The discovery of fire seems to be due to a very similar regression to the presexual stage, more particularly to the nearest stage of the displaced rhythmic manifestation.",
+        "category": ["Discovery"],
+        "explanation": "This highlight connects the discovery of fire to psychological regression, linking cultural evolution to individual psychological development.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "Man tries to sneak into rebirth through subterfuge in order to become a child again.",
+        "category": ["Discovery"],
+        "explanation": "Jung interprets certain mythological themes as representing a universal human desire to return to a state of childhood innocence.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The complex is robbed by that of the personal element.... This tendency towards dissolution (transformation) of every individual complex is the motive for poetry, painting, for every sort of art.",
+        "category": ["Passion"],
+        "explanation": "This passage suggests that the process of transforming personal complexes into less personal forms is the basis for artistic creation.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "Christianity, with its repression of the manifest sexual, is the negative of the ancient sexual cult.",
+        "category": ["Discovery"],
+        "explanation": "Jung proposes that Christianity can be seen as an inversion of ancient fertility cults, repressing what was once openly celebrated.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The resistance against sexuality aims, therefore, at preventing the sexual act; it also seeks to crowd the libido away from the sexual function.",
+        "category": ["Love"],
+        "explanation": "This highlight discusses how psychological resistance to sexuality can lead to the redirection of libido away from its original sexual function.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    },
+    {
+        "text": "The Cabiri are chtonian divinities, who, in the mysteries, were worshipped in Samothrace. The mysteries of the Cabiri are referred to as orgies, and are said to have resembled those of the mother of the gods.",
+        "category": ["Discovery"],
+        "explanation": "Jung discusses the Cabiri, ancient deities associated with fertility and mystery cults, drawing connections between different mythological traditions.",
+        "reference": "Psychology of the Unconscious by Carl Jung"
+    }
 ]
     }
         ]
