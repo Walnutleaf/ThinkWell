@@ -4,6 +4,96 @@
         "type": "Psychologist",
         "quotes": [
     {
+        "text": "A man who has not passed through the inferno of his passions has never overcome them.",
+        "category": ["Passion", "Wisdom", "Mental Health"],
+        "explanation": "Jung suggests that confronting and experiencing one's deepest passions and struggles is essential for truly overcoming and understanding them.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "Every form of addiction is bad, no matter whether the narcotic be alcohol or morphine or idealism.",
+        "category": ["Wisdom", "Mental Health", "Self-care"],
+        "explanation": "Jung warns against any form of addiction, whether it is to substances or even seemingly positive ideals, as it can lead to a loss of balance and self-control.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "The privilege of a lifetime is to become who you truly are.",
+        "category": ["Self-Respect", "Discovery", "Mental Health"],
+        "explanation": "This quote encourages individuals to embrace their true selves, seeing self-discovery and authenticity as the greatest achievements one can strive for in life.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "I am not what happened to me, I am what I choose to become.",
+        "category": ["Perseverance", "Wisdom", "Mental Health"],
+        "explanation": "Jung emphasizes personal agency and resilience, asserting that one's identity and future are shaped by choices and actions rather than past experiences.",
+        "reference": "Modern Man in Search of a Soul"
+    },
+    {
+        "text": "One does not become enlightened by imagining figures of light, but by making the darkness conscious.",
+        "category": ["Wisdom", "Discovery", "Mental Health"],
+        "explanation": "Enlightenment, according to Jung, comes not from wishful thinking but from confronting and understanding the darker aspects of oneself.",
+        "reference": "Psychology and Alchemy"
+    },
+    {
+        "text": "Everything that irritates us about others can lead us to an understanding of ourselves.",
+        "category": ["Wisdom", "Communication", "Mental Health"],
+        "explanation": "Jung suggests that our reactions to others often reflect our own unresolved issues, and understanding these reactions can provide insight into our own psyche.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being.",
+        "category": ["Wisdom", "Mental Health", "Discovery"],
+        "explanation": "Jung speaks to the existential quest for meaning, suggesting that humans are meant to bring understanding and illumination to the darker, unknown aspects of existence.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "The greatest tragedy of the family is the unlived lives of the parents.",
+        "category": ["Wisdom", "Mental Health", "Support"],
+        "explanation": "Jung highlights the impact of unfulfilled potential and dreams on family dynamics, suggesting that parents' unactualized lives can have profound effects on their children.",
+        "reference": "Modern Man in Search of a Soul"
+    },
+    {
+        "text": "Man needs difficulties; they are necessary for health.",
+        "category": ["Perseverance", "Mental Health", "Self-care"],
+        "explanation": "Jung asserts that challenges and obstacles are essential for personal growth and psychological well-being, pushing individuals to develop resilience and strength.",
+        "reference": "Modern Man in Search of a Soul"
+    },
+    {
+        "text": "The pendulum of the mind oscillates between sense and nonsense, not between right and wrong.",
+        "category": ["Wisdom", "Mental Health"],
+        "explanation": "Jung suggests that the human mind continuously shifts between rationality and irrationality, rather than strictly between correct and incorrect, highlighting the complexity of human thought.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "There is no coming to consciousness without pain.",
+        "category": ["Wisdom", "Mental Health", "Perseverance"],
+        "explanation": "This quote emphasizes that self-awareness and growth often come through difficult and painful experiences, which are necessary for true understanding and consciousness.",
+        "reference": "Psychology and Alchemy"
+    },
+    {
+        "text": "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
+        "category": ["Wisdom", "Mental Health", "Self-care"],
+        "explanation": "Jung points out the individuality of human experience, suggesting that what works for one person may not work for another, and that each person must find their own path.",
+        "reference": "Modern Man in Search of a Soul"
+    },
+    {
+        "text": "A man who has not passed through the inferno of his passions has never overcome them.",
+        "category": ["Passion", "Wisdom", "Mental Health"],
+        "explanation": "Jung suggests that confronting and experiencing one's deepest passions and struggles is essential for truly overcoming and understanding them.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "Every form of addiction is bad, no matter whether the narcotic be alcohol or morphine or idealism.",
+        "category": ["Wisdom", "Mental Health", "Self-care"],
+        "explanation": "Jung warns against any form of addiction, whether it is to substances or even seemingly positive ideals, as it can lead to a loss of balance and self-control.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "The privilege of a lifetime is to become who you truly are.",
+        "category": ["Self-Respect", "Discovery", "Mental Health"],
+        "explanation": "This quote encourages individuals to embrace their true selves, seeing self-discovery and authenticity as the greatest achievements one can strive for in life.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+            {
         "text": "Who looks outside, dreams; who looks inside, awakes.",
         "category": ["Discovery", "Wisdom"],
         "explanation": "This quote underscores the importance of self-reflection and introspection. Jung suggests that true understanding and enlightenment come from looking within oneself rather than focusing solely on external realities.",
