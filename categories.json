@@ -1,47 +1,103 @@
 [
   {
     "section": "Personal Growth",
-    "categories": ["Love Yourself", "Letting Go", "Self Respect", "Positive Thinking", "Introvert", "Empathetic"]
+    "categories": [
+      "Love Yourself HC",
+      "Letting Go",
+      "Self Respect",
+      "Positive Thinking",
+      "Discovery"
+    ]
   },
   {
-    "section": "Inspirational",
-    "categories": ["Women's Empowerment", "Passion", "Perseverance", "Success", "Failure", "Encouraging Words"]
+    "section": "Motivational",
+    "categories": [
+      "Women's Empowerment",
+      "Passion",
+      "Perseverance",
+      "Success",
+      "Failure",
+      "Encouraging Words"
+    ]
   },
   {
     "section": "Productivity",
-    "categories": ["Focus", "Discipline", "Time Management", "Efficiency", "Goal Setting"]
+    "categories": [
+      "Focus",
+      "Discipline",
+      "Time Management",
+      "Efficiency",
+      "Goal Setting",
+      "Organization",
+      "Procrastination"
+    ]
   },
   {
     "section": "Relationships",
-    "categories": ["Love", "Friendship", "Loyalty", "Trust", "Parenthood"]
+    "categories": [
+      "Love",
+      "Friendship",
+      "Loyalty",
+      "Trust",
+      "Communication",
+      "Support"
+    ]
   },
   {
     "section": "Philosophical",
-    "categories": ["Stoicism", "Existence", "Morality", "Knowledge", "Reflection", "Pre-Socratic"]
-  },
-  {
-    "section": "Spiritual",
-    "categories": ["Faith", "Inner Peace", "Meditation", "Bible Verses", "Buddhism"]
+    "categories": [
+      "Ancient Greek",
+      "Stoicism",
+      "Latin",
+      "German",
+      "Existence",
+      "Morality",
+      "Knowledge",
+      "Reflection",
+      "Pre-Socratic",
+      "Ethics",
+      "Logic"
+    ]
   },
   {
     "section": "Moods",
-    "categories": ["Happiness", "Sadness", "Anger", "Fear", "Joy", "Anxiety"]
-  },
-  {
-    "section": "Life Lessons",
-    "categories": ["Life Lessons", "Experience", "Wisdom"]
-  },
-  {
-    "section": "Career",
-    "categories": ["Leadership", "Teamwork", "Innovation", "Career Growth", "Professionalism"]
+    "categories": [
+      "Happiness",
+      "Sadness",
+      "Anger",
+      "Fear",
+      "Joy",
+      "Anxiety",
+      "Calm"
+    ]
   },
   {
     "section": "Health",
-    "categories": ["Wellness", "Fitness", "Nutrition", "Mental Health", "Self-care"]
+    "categories": [
+      "Wellness",
+      "Fitness",
+      "Nutrition",
+      "Mental Health",
+      "Self-care"
+    ]
   },
   {
-    "section": "Adventure",
-    "categories": ["Exploration", "Adventure", "Travel", "Curiosity", "Discovery"]
+    "section": "Personality Development",
+    "categories": [
+      "Increase Introversion",
+      "Increase Extroversion",
+      "Reducing Neuroticism"
+    ]
+  },
+  {
+    "section": "Affirmations",
+    "categories": [
+      "Wellness",
+      "Fitness",
+      "Nutrition",
+      "Mental Health",
+      "Self-care"
+    ]
   },
   {
     "section": "Other",
