@@ -992,13 +992,13 @@
         "category": ["Positive Thinking"],
         "explanation": "This passage suggests that religion allows adults to reconnect with a childlike state, relating this to the theme of Paradise Lost.",
         "reference": "Psychology of the Unconscious by Carl Jung"
-    },
-             ]
+   }
+            ]
     },   
      {
         "author": "Friedrich Nietzsche BGAE",
         "type": "Philosopher",
-        "quotes":
+        "quotes":[
           {
         "text": "The Will to Truth, which is to tempt us to many a hazardous enterprise, the famous Truthfulness of which all philosophers have hitherto spoken with respect, what questions has this Will to Truth not laid before us! What strange, perplexing, questionable questions!",
         "category": ["Discovery"],
@@ -1298,7 +1298,8 @@
         "category": ["Discovery"],
         "explanation": "Nietzsche challenges the concepts of selflessness and objectivity, suggesting that all actions and viewpoints are ultimately rooted in self-interest. This reflects his skepticism towards altruism and his belief in the pervasive influence of personal motivations.",
         "reference": "Beyond Good and Evil by Friedrich Nietzsche, Chapter I"
-   }
+ }
 ]
     }
         ]
+
