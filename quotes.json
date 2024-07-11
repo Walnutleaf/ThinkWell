@@ -273,39 +273,129 @@
         "explanation": "Jung suggests that it is necessary to confront and experience one's deepest passions and struggles in order to truly overcome and understand them. Avoiding these challenges prevents personal growth and mastery over one's inner demons.",
         "reference": "Memories, Dreams, Reflections"
     },
-            {
-        "text": "The creation of something new is not accomplished by the intellect but by the play instinct acting from inner necessity. The creative mind plays with the objects it loves.",
-        "category": ["Passion", "Joy", "Creativity"],
-        "explanation": "Jung emphasizes that true creativity comes from an inner necessity and a playful engagement with things one loves. This process is not driven by intellect alone but by a deeper instinctual drive to create and explore.",
-        "reference": "Psychological Types"
+       {
+        "text": "People will do anything, no matter how absurd, to avoid facing their own souls.",
+        "category": ["Mental Health", "Self-care", "Wisdom"],
+        "explanation": "Jung suggests that individuals often go to great lengths to avoid confronting their own inner issues and truths. This avoidance can lead to irrational behavior, highlighting the importance of self-reflection and facing one's own soul for genuine personal growth.",
+        "reference": "Psychology and Alchemy"
     },
     {
-        "text": "Loneliness does not come from having no people around you, but from being unable to communicate the things that seem important to you.",
-        "category": ["Communication", "Loneliness", "Mental Health"],
-        "explanation": "Jung highlights that true loneliness stems from the inability to share one's thoughts and feelings with others, rather than simply from being alone. Effective communication is essential for meaningful connections and emotional well-being.",
+        "text": "In all chaos there is a cosmos, in all disorder a secret order.",
+        "category": ["Wisdom", "Calm", "Mental Health"],
+        "explanation": "Jung highlights the idea that beneath apparent chaos and disorder lies a hidden structure or order. This perspective can provide comfort and insight, suggesting that there is meaning and organization even in life's most confusing moments.",
+        "reference": "Collected Works of C.G. Jung, Volume 9 (Part 1): The Archetypes and The Collective Unconscious"
+    },
+    {
+        "text": "The most terrifying thing is to accept oneself completely.",
+        "category": ["Self-Respect", "Mental Health", "Self-care"],
+        "explanation": "Jung emphasizes the profound difficulty and fear associated with fully accepting oneself, including one's flaws and darker aspects. This acceptance is crucial for true self-understanding and personal integration.",
         "reference": "Modern Man in Search of a Soul"
     },
     {
+        "text": "A dream that is not understood remains a mere occurrence; understood, it becomes a living experience.",
+        "category": ["Discovery", "Mental Health", "Self-care"],
+        "explanation": "Jung suggests that dreams hold valuable insights into the unconscious mind. By understanding and interpreting dreams, they can become meaningful experiences that contribute to personal growth and self-awareness.",
+        "reference": "Collected Works of C.G. Jung, Volume 8: Structure & Dynamics of the Psyche"
+    },
+    {
+        "text": "The healthy man does not torture others – generally it is the tortured who turn into torturers.",
+        "category": ["Mental Health", "Wisdom", "Support"],
+        "explanation": "Jung posits that those who inflict harm on others often do so because of their own unresolved pain and suffering. This insight fosters empathy and understanding, emphasizing the importance of addressing one's own wounds to prevent harm to others.",
+        "reference": "Modern Man in Search of a Soul"
+    },
+    {
+        "text": "We cannot change anything unless we accept it. Condemnation does not liberate, it oppresses.",
+        "category": ["Mental Health", "Self-care", "Wisdom"],
+        "explanation": "Jung emphasizes the power of acceptance in facilitating change. By accepting reality and oneself, individuals can achieve liberation and transformation, whereas condemnation only leads to further oppression and stagnation.",
+        "reference": "Modern Man in Search of a Soul"
+    },
+    {
+        "text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+        "category": ["Friendship", "Communication", "Discovery"],
+        "explanation": "Jung uses the metaphor of a chemical reaction to describe the transformative potential of human interactions. When two people connect, they have the potential to influence and change each other profoundly, leading to mutual growth and transformation.",
+        "reference": "Modern Man in Search of a Soul"
+    },
+    {
+        "text": "Who has fully realized that history is not contained in thick books but lives in our very blood?",
+        "category": ["Wisdom", "Discovery", "Self-Respect"],
+        "explanation": "Jung emphasizes the idea that history is not merely a record of past events but is deeply ingrained in our very being. This quote encourages a deeper understanding of how historical experiences shape and influence us on a fundamental level.",
+        "reference": "The Collected Works of C.G. Jung, Volume 8: Structure & Dynamics of the Psyche"
+    },
+    {
+        "text": "The creative mind plays with the objects it loves.",
+        "category": ["Passion", "Joy", "Discovery"],
+        "explanation": "Jung suggests that creativity stems from a place of love and playful engagement. The creative process is driven by an intrinsic passion and affection for the objects or subjects one works with.",
+        "reference": "Psychological Types"
+    },
+    {
+        "text": "Every form of addiction is bad, no matter whether the narcotic be alcohol or morphine or idealism.",
+        "category": ["Mental Health", "Self-care", "Discipline"],
+        "explanation": "Jung warns against all forms of addiction, whether to substances or ideas. Such dependencies can be detrimental to one's mental health and overall balance, highlighting the need for moderation and self-awareness.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "Man needs difficulties; they are necessary for health.",
+        "category": ["Perseverance", "Mental Health", "Self-care"],
+        "explanation": "Jung asserts that facing challenges and difficulties is essential for personal growth and psychological well-being. These obstacles push individuals to develop resilience, strength, and a deeper understanding of themselves.",
+        "reference": "Modern Man in Search of a Soul"
+    },
+    {
+        "text": "The privilege of a lifetime is to become who you truly are.",
+        "category": ["Self-Respect", "Discovery", "Mental Health"],
+        "explanation": "Jung encourages individuals to embrace their authentic selves. The ultimate goal in life, according to him, is self-discovery and self-acceptance, leading to a fulfilling and genuine existence.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "The pendulum of the mind oscillates between sense and nonsense, not between right and wrong.",
+        "category": ["Wisdom", "Mental Health", "Balance"],
+        "explanation": "Jung highlights the complexity of human thought, suggesting that the mind constantly swings between rationality and irrationality, rather than strictly between right and wrong. This reflects the nuanced nature of human cognition and the challenges of maintaining a balanced perspective.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "There is no coming to consciousness without pain.",
+        "category": ["Wisdom", "Mental Health", "Perseverance"],
+        "explanation": "Jung emphasizes that personal growth and self-awareness often come through difficult and painful experiences. These challenges are necessary for achieving true understanding and consciousness, leading to deeper insights and maturity.",
+        "reference": "Psychology and Alchemy"
+    },
+    {
+        "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
+        "category": ["Wisdom", "Discovery", "Values"],
+        "explanation": "Jung emphasizes the importance of meaning and purpose. Even small things imbued with significance are more valuable than grand but meaningless achievements.",
+        "reference": "Modern Man in Search of a Soul"
+    },
+    {
+        "text": "A man who has not passed through the inferno of his passions has never overcome them.",
+        "category": ["Passion", "Wisdom", "Mental Health"],
+        "explanation": "Jung suggests that it is necessary to confront and experience one's deepest passions and struggles in order to truly overcome and understand them. Avoiding these challenges prevents personal growth and mastery over one's inner demons.",
+        "reference": "Memories, Dreams, Reflections"
+    },
+    {
+        "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
+        "category": ["Wisdom", "Mental Health", "Self-care"],
+        "explanation": "Jung emphasizes the importance of self-awareness in dealing with others' flaws and challenges. By recognizing and understanding one's own dark aspects, individuals can better empathize with and support others, leading to more compassionate and effective relationships.",
+        "reference": "Psychology and Alchemy"
+    },
+    {
         "text": "Thinking is difficult, that’s why most people judge.",
-        "category": ["Wisdom", "Communication", "Judgment"],
+        "category": ["Wisdom", "Communication", "Mental Health"],
         "explanation": "Jung suggests that thoughtful reflection requires effort, which is why many people opt for quick judgments instead. This quote encourages deeper contemplation and understanding rather than superficial assessments.",
         "reference": "The Essential Jung: Selected Writings"
     },
     {
         "text": "You are what you do, not what you say you'll do.",
-        "category": ["Focus", "Discipline", "Action"],
+        "category": ["Focus", "Discipline"],
         "explanation": "Jung emphasizes the importance of actions over words. True character and intentions are revealed through one's actions rather than mere promises or statements.",
         "reference": "Memories, Dreams, Reflections"
     },
     {
         "text": "Shame is a soul-eating emotion.",
-        "category": ["Mental Health", "Self-care", "Emotions"],
+        "category": ["Mental Health", "Self-care"],
         "explanation": "Jung identifies shame as a destructive emotion that can erode one's sense of self and well-being. Addressing and overcoming shame is crucial for mental and emotional health.",
         "reference": "Modern Man in Search of a Soul"
     },
     {
         "text": "Show me a sane man and I will cure him for you.",
-        "category": ["Mental Health", "Wisdom", "Normalcy"],
+        "category": ["Mental Health", "Wisdom"],
         "explanation": "Jung challenges the concept of normalcy and sanity, suggesting that everyone has complexities and irrationalities. This quote invites a reevaluation of what it means to be 'sane' and encourages acceptance of human imperfection.",
         "reference": "Collected Works of C.G. Jung, Volume 16: The Practice of Psychotherapy"
     },
@@ -317,37 +407,19 @@
     },
     {
         "text": "The least of things with a meaning is worth more in life than the greatest of things without it.",
-        "category": ["Wisdom", "Meaning", "Values"],
+        "category": ["Wisdom", "Discovery", "Values"],
         "explanation": "Jung emphasizes the importance of meaning and purpose. Even small things imbued with significance are more valuable than grand but meaningless achievements.",
         "reference": "Modern Man in Search of a Soul"
     },
     {
-        "text": "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
-        "category": ["Self-Respect", "Wisdom", "Mental Health"],
-        "explanation": "Jung emphasizes the importance of self-awareness in dealing with others' flaws and challenges. By recognizing and understanding one's own dark aspects, individuals can better empathize with and support others, leading to more compassionate and effective relationships.",
-        "reference": "Psychology and Alchemy"
-    },
-    {
-        "text": "There is no birth of consciousness without pain.",
-        "category": ["Wisdom", "Mental Health", "Perseverance"],
-        "explanation": "Jung emphasizes that personal growth and self-awareness often come through difficult and painful experiences. These challenges are necessary for achieving true understanding and consciousness, leading to deeper insights and maturity.",
-        "reference": "Psychology and Alchemy"
-    },
-    {
-        "text": "To ask the right question is already half the solution of a problem.",
-        "category": ["Wisdom", "Problem Solving", "Focus"],
-        "explanation": "Jung underscores the importance of asking the right questions in problem-solving. Formulating a good question directs attention and thought in productive ways, often leading to clearer and more effective solutions.",
-        "reference": "Modern Man in Search of a Soul"
-    },
-    {
         "text": "What you resist, persists.",
-        "category": ["Mental Health", "Self-care", "Acceptance"],
+        "category": ["Mental Health", "Self-care", "Wisdom"],
         "explanation": "Jung suggests that resisting or denying difficult emotions or situations often makes them more persistent. Acceptance and confrontation are essential for overcoming and resolving internal conflicts.",
         "reference": "Memories, Dreams, Reflections"
     },
     {
         "text": "We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.",
-        "category": ["Mental Health", "Acceptance", "Self-care"],
+        "category": ["Mental Health", "Self-care", "Wisdom"],
         "explanation": "Jung emphasizes the power of acceptance in creating change. Condemning or rejecting parts of oneself or reality only leads to further oppression, whereas acceptance can lead to liberation and transformation.",
         "reference": "Modern Man in Search of a Soul"
     },
@@ -359,10 +431,22 @@
     },
     {
         "text": "Where love rules, there is no will to power; and where power predominates, there love is lacking. The one is the shadow of the other.",
-        "category": ["Love", "Power", "Wisdom"],
+        "category": ["Love", "Wisdom"],
         "explanation": "Jung contrasts love and power, suggesting that they are mutually exclusive forces. Where love is present, there is no desire to dominate, and where power seeks to dominate, love is absent. Each reveals the shadow of the other, highlighting the need for balance and the dangers of prioritizing power over love.",
         "reference": "Collected Works of C.G. Jung, Volume 10: Civilization in Transition"
-    }
+    },
+    {
+        "text": "To ask the right question is already half the solution of a problem.",
+        "category": ["Wisdom", "Focus"],
+        "explanation": "Jung underscores the importance of asking the right questions in problem-solving. Formulating a good question directs attention and thought in productive ways, often leading to clearer and more effective solutions.",
+        "reference": "Modern Man in Search of a Soul"
+    },
+    {
+        "text": "Thinking is difficult, that’s why most people judge.",
+        "category": ["Wisdom", "Communication", "Mental Health"],
+        "explanation": "Jung suggests that thoughtful reflection requires effort, which is why many people opt for quick judgments instead. This quote encourages deeper contemplation and understanding rather than superficial assessments.",
+        "reference": "The Essential Jung: Selected Writings"
+    }     
 ]
     }
         ]
