@@ -1730,7 +1730,362 @@
         "category": ["Love", "Self Respect"],
         "explanation": "This quote challenges conventional notions of love, suggesting a form of love that is strong enough to encompass both the consequences of actions and the responsibility for them.",
         "reference": "Thus Spoke Zarathustra, On the Way of the Creator"
-    }      
+    },
+            {
+    "text": "One, is always too many about me—thinketh the anchorite. Always once one—that maketh two in the long run!",
+    "category": ["Self Respect", "Discovery"],
+    "explanation": "This quote reflects on the nature of solitude and self-reflection. It suggests that even in isolation, one's thoughts create a form of company, emphasizing the complexity of true solitude.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "Our faith in others betrayeth wherein we would fain have faith in ourselves. Our longing for a friend is our betrayer.",
+    "category": ["Self Respect", "Friendship"],
+    "explanation": "This insight suggests that our desire for friendship often stems from our own insecurities and lack of self-faith. It encourages introspection and self-reliance.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "If one would have a friend, then must one also be willing to wage war for him: and in order to wage war, one must be CAPABLE of being an enemy.",
+    "category": ["Friendship", "Love"],
+    "explanation": "Zarathustra emphasizes that true friendship requires strength and the ability to face conflict. It suggests that genuine relationships involve both support and challenge.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "In one's friend one shall have one's best enemy. Thou shalt be closest unto him with thy heart when thou withstandest him.",
+    "category": ["Friendship", "Self Respect"],
+    "explanation": "This paradoxical statement suggests that true friendship involves challenging each other. It encourages growth through opposition and honest interaction.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "He who maketh no secret of himself shocketh: so much reason have ye to fear nakedness!",
+    "category": ["Self Respect", "Discovery"],
+    "explanation": "This quote reflects on the fear of vulnerability and authenticity. It suggests that society often fears those who are truly open and honest about themselves.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "Ye cannot endure it with yourselves, and do not love yourselves sufficiently: so ye seek to mislead your neighbour into love, and would fain gild yourselves with his error.",
+    "category": ["Love Yourself", "Self Respect"],
+    "explanation": "Zarathustra criticizes those who seek validation from others due to lack of self-love. It encourages self-acceptance rather than seeking affirmation externally.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "Not the height, it is the declivity that is terrible!",
+    "category": ["Fear", "Perseverance"],
+    "explanation": "This metaphor suggests that the fear of falling or failing is often more terrifying than the challenge of climbing. It speaks to the psychological aspects of ambition and risk.",
+    "reference": "Thus Spoke Zarathustra, Part II: Manly Prudence"
+  },
+  {
+    "text": "To man clingeth my will; with chains do I bind myself to man, because I am pulled upwards to the Superman: for thither doth mine other will tend.",
+    "category": ["Discovery", "Passion"],
+    "explanation": "Zarathustra expresses his connection to humanity while aspiring towards the concept of the Superman. It reflects the tension between current reality and future potential.",
+    "reference": "Thus Spoke Zarathustra, Part II: Manly Prudence"
+  },
+  {
+    "text": "And he who would not languish amongst men, must learn to drink out of all glasses; and he who would keep clean amongst men, must know how to wash himself even with dirty water.",
+    "category": ["Wisdom", "Perseverance"],
+    "explanation": "This metaphorical advice suggests adaptability and resilience in dealing with various life situations, even unpleasant ones.",
+    "reference": "Thus Spoke Zarathustra, Part II: Manly Prudence"
+  },
+  {
+    "text": "Is not wounded vanity the mother of all tragedies?",
+    "category": ["Self Respect", "Discovery"],
+    "explanation": "This question suggests that many conflicts and sorrows stem from hurt pride rather than substantive issues. It encourages reflection on the root of personal and social problems.",
+    "reference": "Thus Spoke Zarathustra, Part II: Manly Prudence"
+  },
+  {
+    "text": "That life may be fair to behold, its game must be well played; for that purpose, however, it needeth good actors.",
+    "category": ["Success", "Positive Thinking"],
+    "explanation": "This metaphor compares life to a performance, suggesting that to make life beautiful, one must engage fully and skillfully in its challenges and opportunities.",
+    "reference": "Thus Spoke Zarathustra, Part II: Manly Prudence"
+  },
+  {
+    "text": "And if that be the true virtue which is unconscious of itself—well, the vain man is unconscious of his modesty!",
+    "category": ["Wisdom", "Self Respect"],
+    "explanation": "This paradoxical statement humorously suggests that even vanity can be a form of unconscious virtue, challenging conventional notions of modesty and self-awareness.",
+    "reference": "Thus Spoke Zarathustra, Part II: Manly Prudence"
+  },
+  {
+    "text": "Verily, there is still a future even for evil!",
+    "category": ["Discovery", "Positive Thinking"],
+    "explanation": "This provocative statement suggests that even negative aspects of existence have potential for transformation or purpose, encouraging a broader perspective on morality and change.",
+    "reference": "Thus Spoke Zarathustra, Part II: Manly Prudence"
+  },
+  {
+    "text": "For that the Superman may not lack his dragon, the superdragon that is worthy of him, there must still much warm sun glow on moist virgin forests!",
+    "category": ["Discovery", "Passion"],
+    "explanation": "This metaphorical statement suggests that great challenges are necessary for the development of exceptional individuals. It implies that adversity and untamed potential are crucial for growth.",
+    "reference": "Thus Spoke Zarathustra, Part II: Manly Prudence"
+  },
+  {
+    "text": "Ah, I became tired of those highest and best ones: from their 'height' did I long to be up, out, and away to the Superman!",
+    "category": ["Discovery", "Passion"],
+    "explanation": "Zarathustra expresses dissatisfaction with current ideals of excellence, aspiring instead to a higher concept of human potential embodied in the Superman.",
+    "reference": "Thus Spoke Zarathustra, Part II: Manly Prudence"
+  },
+  {
+    "text": "A horror came over me when I saw those best ones naked: then there grew for me the pinions to soar away into distant futures.",
+    "category": ["Discovery", "Letting Go"],
+    "explanation": "This vivid imagery expresses disillusionment with current ideals, leading to a desire for radical new possibilities and futures.",
+    "reference": "Thus Spoke Zarathustra, Part II: Manly Prudence"
+  },
+  {
+    "text": "Into more distant futures, into more southern souths than ever artist dreamed of: thither, where Gods are ashamed of all clothes!",
+    "category": ["Discovery", "Passion"],
+    "explanation": "This poetic expression conveys a longing for radical new ways of thinking and being, beyond current moral and artistic limitations.",
+    "reference": "Thus Spoke Zarathustra, Part II: Manly Prudence"
+  },
+  {
+    "text": "Too far did I fly into the future: a horror seized upon me.",
+    "category": ["Fear", "Discovery"],
+    "explanation": "This statement reflects the unsettling nature of visionary thinking. It suggests that glimpsing radical future possibilities can be both exhilarating and terrifying.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Land of Culture"
+  },
+  {
+    "text": "And when I looked around me, lo! there time was my sole contemporary.",
+    "category": ["Discovery", "Letting Go"],
+    "explanation": "This poetic observation conveys a sense of profound isolation in one's vision or understanding. It suggests that truly original thought can separate one from their contemporaries.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Land of Culture"
+  },
+  {
+    "text": "Written all over with the characters of the past, and these characters also pencilled over with new characters—thus have ye concealed yourselves well from all decipherers!",
+    "category": ["Discovery", "Self Respect"],
+    "explanation": "This metaphor criticizes the complexity and inauthenticity of modern culture, suggesting that people hide their true selves behind layers of historical and contemporary influences.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Land of Culture"
+  },
+  {
+    "text": "Thoughts that come with doves' footsteps guide the world.",
+    "category": ["Wisdom", "Positive Thinking"],
+    "explanation": "This beautiful metaphor suggests that the most profound and influential ideas often come quietly and subtly, rather than with force or fanfare.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Stillest Hour"
+  },
+  {
+    "text": "O Zarathustra, thou shalt go as a shadow of that which is to come: thus wilt thou command, and in commanding go foremost.",
+    "category": ["Leadership", "Discovery"],
+    "explanation": "This guidance suggests that true leadership involves embodying and foreshadowing future potentials, rather than merely directing based on current realities.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Stillest Hour"
+  },
+  {
+    "text": "Thou must yet become a child, and be without shame.",
+    "category": ["Discovery", "Letting Go"],
+    "explanation": "This advice encourages embracing a child-like perspective, free from societal constraints and self-consciousness, to achieve new insights and ways of being.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Stillest Hour"
+  },
+  {
+    "text": "The pride of youth is still upon thee; late hast thou become young: but he who would become a child must surmount even his youth.",
+    "category": ["Wisdom", "Discovery"],
+    "explanation": "This paradoxical statement suggests that true wisdom involves moving beyond both the constraints of maturity and the limitations of youth, to achieve a more fundamental openness to experience.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Stillest Hour"
+  },
+  {
+    "text": "O Zarathustra, thy fruits are ripe, but thou art not ripe for thy fruits!",
+    "category": ["Discovery", "Perseverance"],
+    "explanation": "This metaphorical statement suggests that one's ideas or potential may be fully developed, but personal readiness to manifest them may lag behind, encouraging patience and further personal growth.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Stillest Hour"
+  },
+  {
+    "text": "So must thou go again into solitude: for thou shalt yet become mellow.",
+    "category": ["Discovery", "Self-care"],
+    "explanation": "This advice emphasizes the importance of periods of solitude and reflection for personal growth and the full realization of one's potential.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Stillest Hour"
+  },
+  {
+    "text": "To stand with relaxed muscles and with unharnessed will: that is the hardest for all of you, ye sublime ones!",
+    "category": ["Self Respect", "Calm"],
+    "explanation": "This observation suggests that true mastery involves a state of relaxed readiness, rather than constant tension or effort. It encourages a balance of strength and ease.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Sublime Ones"
+  },
+  {
+    "text": "When power becometh gracious and descendeth into the visible—I call such condescension, beauty.",
+    "category": ["Leadership", "Wellness"],
+    "explanation": "This definition of beauty connects it with the graceful expression of power, suggesting that true beauty involves strength expressed with subtlety and benevolence.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Sublime Ones"
+  },
+  {
+    "text": "For this is the secret of the soul: when the hero hath abandoned it, then only approacheth it in dreams—the superhero.",
+    "category": ["Discovery", "Letting Go"],
+    "explanation": "This cryptic statement suggests that the highest potentials often reveal themselves only when one has moved beyond conventional notions of heroism or achievement.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Sublime Ones"
+  },
+  {
+    "text": "Hungry, fierce, lonesome, God-forsaken: so doth the lion-will wish itself.",
+    "category": ["Perseverance", "Self Respect"],
+    "explanation": "This vivid description characterizes the will of a truly independent and powerful individual, emphasizing the often solitary and challenging nature of pursuing one's highest potential.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Famous Wise Ones"
+  },
+     {
+    "text": "The friend of the anchorite is always the third one: the third one is the cork which preventeth the conversation of the two sinking into the depth.",
+    "category": ["Friendship", "Wisdom"],
+    "explanation": "This metaphorical statement suggests that in deep, intimate conversations, a third party often serves to keep the exchange from becoming too intense or overwhelming.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "In one's friend one shall have one's best enemy. Thou shalt be closest unto him with thy heart when thou withstandest him.",
+    "category": ["Friendship", "Wisdom"],
+    "explanation": "This paradoxical advice suggests that true friendship involves challenging each other, implying that opposition can be a form of closeness and support.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "Let thy pity be a divining: to know first if thy friend wanteth pity. Perhaps he loveth in thee the unmoved eye, and the look of eternity.",
+    "category": ["Friendship", "Wisdom"],
+    "explanation": "This insight advises caution in offering pity, suggesting that sometimes what a friend needs is not sympathy but a steady, unperturbed perspective.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "Art thou pure air and solitude and bread and medicine to thy friend? Many a one cannot loosen his own fetters, but is nevertheless his friend's emancipator.",
+    "category": ["Friendship", "Self Respect"],
+    "explanation": "This question encourages one to be a source of nourishment and freedom for friends, while acknowledging that we might help others in ways we can't help ourselves.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "Art thou a slave? Then thou canst not be a friend. Art thou a tyrant? Then thou canst not have friends.",
+    "category": ["Friendship", "Self Respect"],
+    "explanation": "This statement suggests that true friendship requires a balance of independence and respect, incompatible with either subservience or domination.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "In woman's love there is injustice and blindness to all she doth not love. And even in woman's conscious love, there is still always surprise and lightning and night, along with the light.",
+    "category": ["Love", "Women's Empowerment"],
+    "explanation": "This complex view of women's love suggests it contains both unfairness and wonder, emphasizing its intense and unpredictable nature.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "As yet woman is not capable of friendship: women are still cats, and birds. Or at the best, cows.",
+    "category": ["Women's Empowerment", "Friendship"],
+    "explanation": "This controversial statement reflects dated views on gender, suggesting women are not yet capable of the kind of friendship Zarathustra envisions.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "Ye have not yet suffered MEN. Had ye suffered as men, then would ye know how to be my friends.",
+    "category": ["Friendship", "Perseverance"],
+    "explanation": "This suggests that deep friendship requires a shared experience of profound suffering or challenge, particularly in a masculine context.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Friend"
+  },
+  {
+    "text": "Verily, I have often laughed at the weaklings, who think themselves good because they have crippled paws!",
+    "category": ["Self Respect", "Wisdom"],
+    "explanation": "This satirical observation critiques those who mistake weakness for virtue, suggesting that true goodness requires strength and capability.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Sublime Ones"
+  },
+  {
+    "text": "The virtue of the pillar shalt thou strive after: more beautiful doth it ever become, and more graceful—but internally harder and more sustaining—the higher it riseth.",
+    "category": ["Self Respect", "Perseverance"],
+    "explanation": "This metaphor encourages personal growth that combines external grace with internal strength, suggesting that true elevation requires both aesthetic and structural improvement.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Sublime Ones"
+  },
+  {
+    "text": "Verily, a prodigy is this power of praising and blaming. Tell me, ye brethren, who will master it for me? Who will put a fetter upon the thousand necks of this animal?",
+    "category": ["Wisdom", "Self Respect"],
+    "explanation": "This questions the power of judgment and valuation, suggesting it's a formidable force that needs to be mastered or constrained.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Thousand and One Goals"
+  },
+  {
+    "text": "A thousand goals have there been hitherto, for a thousand peoples have there been. Only the fetter for the thousand necks is still lacking; there is lacking the one goal. As yet humanity hath not a goal.",
+    "category": ["Discovery", "Leadership"],
+    "explanation": "This observation suggests that while many cultures have had their own goals, humanity as a whole lacks a unified purpose or direction.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Thousand and One Goals"
+  },
+  {
+    "text": "Higher than love to your neighbour is love to the furthest and future ones; higher still than love to men, is love to things and phantoms.",
+    "category": ["Love", "Discovery"],
+    "explanation": "This hierarchy of love prioritizes abstract and future-oriented love over immediate, personal love, encouraging a broader perspective on affection and commitment.",
+    "reference": "Thus Spoke Zarathustra, Part II: Neighbour-Love"
+  },
+  {
+    "text": "The furthest ones are they who pay for your love to the near ones; and when there are but five of you together, a sixth must always die.",
+    "category": ["Love", "Wisdom"],
+    "explanation": "This cryptic statement suggests that love for those close to us often comes at the expense of those distant, implying a necessary sacrifice in our affections.",
+    "reference": "Thus Spoke Zarathustra, Part II: Neighbour-Love"
+  },
+  {
+    "text": "Not the neighbour do I teach you, but the friend. Let the friend be the festival of the earth to you, and a foretaste of the Superman.",
+    "category": ["Friendship", "Discovery"],
+    "explanation": "This elevates the concept of friendship above mere neighborly relations, presenting it as a joyous and transformative relationship that hints at greater human potential.",
+    "reference": "Thus Spoke Zarathustra, Part II: Neighbour-Love"
+  },
+  {
+    "text": "Wouldst thou go into isolation, my brother? Wouldst thou seek the way unto thyself? Tarry yet a little and hearken unto me.",
+    "category": ["Self Respect", "Discovery"],
+    "explanation": "This introduces the theme of self-discovery through isolation, while also cautioning against hasty retreat from society.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Way of the Creating One"
+  },
+  {
+    "text": "Free from what? What doth that matter to Zarathustra! Clearly, however, shall thine eye show unto me: free FOR WHAT?",
+    "category": ["Freedom", "Discovery"],
+    "explanation": "This challenges the concept of freedom, suggesting that what one is free for is more important than what one is free from, emphasizing purpose over mere liberation.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Way of the Creating One"
+  },
+  {
+    "text": "Canst thou give unto thyself thy bad and thy good, and set up thy will as a law over thee? Canst thou be judge for thyself, and avenger of thy law?",
+    "category": ["Self Respect", "Wisdom"],
+    "explanation": "This series of questions emphasizes the importance of self-governance and personal moral autonomy, challenging the individual to create and uphold their own values.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Way of the Creating One"
+  },
+  {
+    "text": "Terrible is aloneness with the judge and avenger of one's own law. Thus is a star projected into desert space, and into the icy breath of aloneness.",
+    "category": ["Self Respect", "Fear"],
+    "explanation": "This vivid metaphor describes the challenging nature of true moral autonomy, likening it to the isolation of a star in space, emphasizing both its grandeur and its difficulty.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Way of the Creating One"
+  },
+  {
+    "text": "How could ye be just unto me! - must thou say - I choose your injustice as my allotted portion.",
+    "category": ["Wisdom", "Self Respect"],
+    "explanation": "This paradoxical statement suggests embracing others' misjudgments as a chosen burden, implying that true self-understanding may often be at odds with others' perceptions.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Way of the Creating One"
+  },
+  {
+    "text": "A heretic wilt thou be to thyself, and a wizard and a soothsayer, and a fool, and a doubter, and a reprobate, and a villain.",
+    "category": ["Discovery", "Self Respect"],
+    "explanation": "This list of roles encourages embracing various, often negatively perceived identities in the process of self-discovery and creation.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Way of the Creating One"
+  },
+  {
+    "text": "Ready must thou be to burn thyself in thine own flame; how couldst thou become new if thou have not first become ashes!",
+    "category": ["Discovery", "Letting Go"],
+    "explanation": "This metaphor of self-immolation emphasizes the need for radical self-transformation, suggesting that renewal requires the destruction of one's former self.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Way of the Creating One"
+  },
+  {
+    "text": "Man is a rope stretched between the animal and the Superman—a rope over an abyss.",
+    "category": ["Discovery", "Self Respect"],
+    "explanation": "This vivid metaphor presents humanity as a transitional state, emphasizing both the potential for growth and the precariousness of our current condition.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Old and Young Women"
+  },
+  {
+    "text": "Everything in woman is a riddle, and everything in woman hath one solution—it is called pregnancy.",
+    "category": ["Women's Empowerment", "Discovery"],
+    "explanation": "This controversial statement reduces the complexity of womanhood to the capacity for childbearing, reflecting dated and limited views on gender.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Old and Young Women"
+  },
+  {
+    "text": "Man shall be trained for war, and woman for the recreation of the warrior: all else is folly.",
+    "category": ["Women's Empowerment", "Wisdom"],
+    "explanation": "This statement presents a highly gendered and controversial view of social roles, reducing men and women to warlike and supportive functions respectively.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Old and Young Women"
+  },
+  {
+    "text": "Let man fear woman when she loveth: then maketh she every sacrifice, and everything else she regardeth as worthless.",
+    "category": ["Love", "Women's Empowerment"],
+    "explanation": "This portrays women's love as all-consuming and potentially dangerous, suggesting it leads to extreme sacrifice and disregard for other values.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Old and Young Women"
+  },
+  {
+    "text": "The happiness of man is, 'I will.' The happiness of woman is, 'He will.'",
+    "category": ["Women's Empowerment", "Self Respect"],
+    "explanation": "This controversial statement presents a stark gender divide in the nature of happiness, associating male fulfillment with agency and female fulfillment with acquiescence.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Old and Young Women"
+  },
+  {
+    "text": "Obey, must the woman, and find a depth for her surface. Surface, is woman's soul, a mobile, stormy film on shallow water.",
+    "category": ["Women's Empowerment", "Wisdom"],
+    "explanation": "This highly controversial characterization of women suggests a lack of depth and a need for subservience, reflecting deeply problematic gender views.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Old and Young Women"
+  },
+  {
+    "text": "Thou goest to women? Do not forget thy whip!",
+    "category": ["Women's Empowerment", "Wisdom"],
+    "explanation": "This infamous quote, presented as advice from an old woman, suggests a deeply problematic view of gender relations involving domination and control.",
+    "reference": "Thus Spoke Zarathustra, Part II: The Old and Young Women"
+  }
+            
             
 ]
     }
