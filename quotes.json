@@ -2084,7 +2084,193 @@
     "category": ["Women's Empowerment", "Wisdom"],
     "explanation": "This infamous quote, presented as advice from an old woman, suggests a deeply problematic view of gender relations involving domination and control.",
     "reference": "Thus Spoke Zarathustra, Part II: The Old and Young Women"
-  }
+ }
+         ]
+    },   
+     {
+        "author": "Dostoyevsky - The Idiot",
+        "type": "Novelist",
+        "quotes": [   
+            {
+        "text": "I only know that I was the happiest of men. How I came to be so I do not know. I only remember that I was full of a strange new feeling that made me almost beside myself with joy.",
+        "category": ["Happiness", "Discovery"],
+        "explanation": "The prince expresses a profound sense of happiness and self-discovery, highlighting his innocent and joyful nature. This quote captures a key aspect of the prince's character - his capacity for pure, uncomplicated happiness.",
+        "reference": "The Idiot, Chapter 5"
+    },
+    {
+        "text": "Beauty is a riddle.",
+        "category": ["Love", "Discovery"],
+        "explanation": "The prince's succinct observation about beauty encapsulates a central theme of the novel. It suggests the mysterious and often confounding nature of beauty, both physical and spiritual.",
+        "reference": "The Idiot, Chapter 7"
+    },
+    {
+        "text": "I consider you the most honest and upright man, more honest and upright than any other man I know.",
+        "category": ["Trust", "Positive Thinking"],
+        "explanation": "This statement reflects the prince's tendency to see the best in others, even when his faith may be misplaced. It demonstrates his trusting nature and positive outlook on humanity.",
+        "reference": "The Idiot, Chapter 11"
+    },
+    {
+        "text": "Compassion is the chief law of human existence.",
+        "category": ["Love", "Positive Thinking"],
+        "explanation": "This philosophical statement encapsulates the prince's worldview and the novel's central theme. It emphasizes the importance of empathy and kindness in human relationships.",
+        "reference": "The Idiot, Chapter 6"
+    },
+    {
+        "text": "There is something at the bottom of every new human thought, every thought of genius, or even every earnest thought that springs up in any brain, which can never be communicated to others.",
+        "category": ["Discovery", "Communication"],
+        "explanation": "This quote reflects on the inherent limitations of human communication and understanding. It suggests that there are depths to human thought that can never be fully expressed or shared.",
+        "reference": "The Idiot, Chapter 7"
+    },
+    {
+        "text": "The world will be saved by beauty.",
+        "category": ["Love", "Positive Thinking"],
+        "explanation": "This statement encapsulates a central theme of Dostoevsky's work. It suggests that aesthetic and moral beauty have the power to redeem humanity and solve the world's problems.",
+        "reference": "The Idiot, Chapter 5"
+    },
+    {
+        "text": "It is life that matters, nothing but life—the process of discovering, the everlasting and perpetual process, not the discovery itself, at all.",
+        "category": ["Discovery", "Positive Thinking"],
+        "explanation": "This philosophical musing emphasizes the importance of the journey over the destination. It suggests that the process of living and learning is more valuable than any single realization or achievement.",
+        "reference": "The Idiot, Chapter 5"
+    },
+    {
+        "text": "I am a sick man... I am a spiteful man. I am an unattractive man. I believe my liver is diseased.",
+        "category": ["Self Respect", "Mental Health"],
+        "explanation": "This self-deprecating statement reveals the speaker's low self-esteem and poor mental state. It sets the tone for a character struggling with self-loathing and physical ailments.",
+        "reference": "The Idiot, Chapter 1"
+    },
+    {
+        "text": "Love in action is a harsh and dreadful thing compared to love in dreams.",
+        "category": ["Love", "Discovery"],
+        "explanation": "This quote contrasts idealized notions of love with the often difficult reality. It suggests that real love requires effort and can be painful, unlike the perfect love we imagine.",
+        "reference": "The Idiot, Chapter 6"
+    },
+    {
+        "text": "To kill for murder is a punishment incomparably worse than the crime itself.",
+        "category": ["Discipline", "Justice"],
+        "explanation": "This statement critiques capital punishment, arguing that it is morally worse than the crime it punishes. It reflects the novel's exploration of morality and justice.",
+        "reference": "The Idiot, Chapter 2"
+    },
+    {
+        "text": "The worst of it is, I am no longer sure of myself. I might perhaps have been original, but I chose to remain unproductive.",
+        "category": ["Self Respect", "Discovery"],
+        "explanation": "This self-reflective statement reveals a character's regret over unfulfilled potential. It touches on themes of identity, originality, and the consequences of one's choices.",
+        "reference": "The Idiot, Chapter 4"
+    },
+    {
+        "text": "It's life that matters, nothing but life—the process of discovering, the everlasting and perpetual process, not the discovery itself, at all.",
+        "category": ["Discovery", "Positive Thinking"],
+        "explanation": "This philosophical statement emphasizes the importance of the journey over the destination. It suggests that the process of living and learning is more valuable than any single realization.",
+        "reference": "The Idiot, Chapter 5"
+    },
+    {
+        "text": "I am afraid of becoming a beggar. I am afraid of poverty.",
+        "category": ["Fear", "Efficiency"],
+        "explanation": "This confession reveals a character's deep-seated fear of financial instability. It touches on themes of social status and the anxiety associated with potential downward mobility.",
+        "reference": "The Idiot, Chapter 8"
+    },
+    {
+        "text": "Man is unhappy because he doesn't know he's happy. It's only that.",
+        "category": ["Happiness", "Discovery"],
+        "explanation": "This paradoxical statement suggests that happiness is a state of mind rather than a result of external circumstances. It implies that self-awareness is key to contentment.",
+        "reference": "The Idiot, Chapter 5"
+    },
+    {
+        "text": "I am a fool with a heart but no brains, and you are a fool with brains but no heart; and we're both unhappy, and we both suffer.",
+        "category": ["Self Respect", "Communication"],
+        "explanation": "This quote contrasts two character types and suggests that both emotional intelligence and intellectual capacity are necessary for happiness. It touches on themes of self-awareness and interpersonal understanding.",
+        "reference": "The Idiot, Chapter 9"
+    },
+    {
+        "text": "The more I degrade myself, the more I love myself.",
+        "category": ["Self Respect", "Discovery"],
+        "explanation": "This paradoxical statement reveals a complex relationship between self-loathing and self-love. It suggests a perverse satisfaction in self-degradation, touching on themes of masochism and self-destructive behavior.",
+        "reference": "The Idiot, Chapter 7"
+    },
+    {
+        "text": "Lack of originality, everywhere, all over the world, from time immemorial, has always been considered the foremost quality and the recommendation of the active, efficient and practical man.",
+        "category": ["Discovery", "Efficiency"],
+        "explanation": "This cynical observation critiques society's preference for conformity over originality. It suggests that being unoriginal is often rewarded in practical matters, challenging the value placed on creativity.",
+        "reference": "The Idiot, Chapter 8"
+    },
+    {
+        "text": "I am not afraid to seem a fool.",
+        "category": ["Self Respect", "Courage"],
+        "explanation": "This bold statement reflects a character's willingness to be authentic, even at the risk of appearing foolish. It touches on themes of social pressure, self-confidence, and the courage to be oneself.",
+        "reference": "The Idiot, Chapter 3"
+    },
+    {
+        "text": "The soul is healed by being with children.",
+        "category": ["Mental Health", "Wellness"],
+        "explanation": "This quote suggests the therapeutic effect of interacting with children. It implies that childlike innocence and joy can have a healing effect on troubled adults.",
+        "reference": "The Idiot, Chapter 6"
+    },
+    {
+        "text": "There is no subject so old that something new cannot be said about it.",
+        "category": ["Discovery", "Positive Thinking"],
+        "explanation": "This statement encourages original thinking and fresh perspectives. It suggests that creativity and innovation are always possible, even in well-trodden areas of thought.",
+        "reference": "The Idiot, Chapter 7"
+    },
+    {
+        "text": "I am a slave and I am not afraid to admit it. It's all slavery.",
+        "category": ["Self Respect", "Discovery"],
+        "explanation": "This confession reveals a character's sense of powerlessness and resignation. It touches on themes of free will, social constraints, and the nature of human freedom.",
+        "reference": "The Idiot, Chapter 9"
+    },
+    {
+        "text": "The cleverest of all, in my opinion, is the man who calls himself a fool at least once a month.",
+        "category": ["Self Respect", "Discovery"],
+        "explanation": "This paradoxical statement suggests that true wisdom includes the ability to recognize one's own foolishness. It advocates for humility and self-awareness as key aspects of intelligence.",
+        "reference": "The Idiot, Chapter 7"
+    },
+    {
+        "text": "I have no ambition to reconcile man to his fate, or to justify the ways of God to man.",
+        "category": ["Discovery", "Discipline"],
+        "explanation": "This statement rejects the role of philosopher or theologian. It suggests a refusal to rationalize human suffering or defend divine justice, touching on themes of existential questioning.",
+        "reference": "The Idiot, Chapter 4"
+    },
+    {
+        "text": "To love is to suffer and there can be no love otherwise.",
+        "category": ["Love", "Discovery"],
+        "explanation": "This quote presents a view of love as inherently painful. It suggests that suffering is an integral part of loving, touching on themes of romantic idealism versus reality.",
+        "reference": "The Idiot, Chapter 8"
+    },
+    {
+        "text": "The most terrible thing is that man gets used to everything, even to the most terrible things.",
+        "category": ["Discovery", "Mental Health"],
+        "explanation": "This observation comments on human adaptability, suggesting that it can be both a blessing and a curse. It implies that people can become desensitized to even the most horrific circumstances.",
+        "reference": "The Idiot, Chapter 5"
+    },
+    {
+        "text": "What is there to be afraid of? I am not afraid of anything.",
+        "category": ["Courage", "Self Respect"],
+        "explanation": "This bold statement expresses fearlessness and confidence. However, in the context of the novel, it may also suggest naivety or a lack of self-preservation instinct.",
+        "reference": "The Idiot, Chapter 2"
+    },
+    {
+        "text": "Compassion was the chief and, perhaps, the only law of human existence.",
+        "category": ["Love", "Positive Thinking"],
+        "explanation": "This philosophical statement encapsulates a central theme of the novel. It emphasizes the supreme importance of empathy and kindness in human relationships and society.",
+        "reference": "The Idiot, Chapter 6"
+    },
+    {
+        "text": "We are all ridiculous, but he who realizes it is twice as ridiculous as everyone else.",
+        "category": ["Self Respect", "Discovery"],
+        "explanation": "This paradoxical statement suggests that self-awareness can be both enlightening and embarrassing. It touches on themes of human folly and the complexities of self-knowledge.",
+        "reference": "The Idiot, Chapter 9"
+    },
+    {
+        "text": "It is better to be unhappy and know the worst, than to be happy in a fool's paradise.",
+        "category": ["Discovery", "Mental Health"],
+        "explanation": "This quote values truth over comfort, suggesting that facing difficult realities is preferable to living in blissful ignorance. It touches on themes of authenticity and the nature of happiness.",
+        "reference": "The Idiot, Chapter 4"
+    },
+    {
+        "text": "The degree of civilization in a society can be judged by entering its prisons.",
+        "category": ["Discipline", "Discovery"],
+        "explanation": "This statement suggests that a society's treatment of its most marginalized members reflects its true moral character. It touches on themes of justice, compassion, and social progress.",
+        "reference": "The Idiot, Chapter 7"
+    }
             
             
 ]
