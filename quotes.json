@@ -1,6 +1,8 @@
-{
-  "author": "",
-  "quotes": [
+[
+    {
+        "author": "",
+        "type": "",
+        "quotes": [
     {
       "text": "I embrace my true self and honor my worth.",
       "category": ["Self Respect"]
@@ -629,5 +631,8 @@
       "text": "I handle stress with composure and confidence.",
       "category": ["Reducing Neuroticism"]
     }
-  ]
-}
+            
+            
+]
+    }
+        ]
