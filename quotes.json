@@ -1,670 +1,633 @@
-[
-  {
-    "text": "I embrace my true self and honor my worth.",
-    "category": ["Self Respect"]
-  },
-  {
-    "text": "I am on a journey of self-discovery, and every step brings me closer to who I truly am.",
-    "category": ["Discovery"]
-  },
-  {
-    "text": "I release all that no longer serves me and embrace the freedom that follows.",
-    "category": ["Letting Go"]
-  },
-  {
-    "text": "I choose to see the good in every situation and stay positive.",
-    "category": ["Positive Thinking"]
-  },
-  {
-    "text": "I lead by example, inspiring others with my actions and words.",
-    "category": ["Leadership"]
-  },
-  {
-    "text": "I am worthy of respect and honor.",
-    "category": ["Self Respect"]
-  },
-  {
-    "text": "Every day, I discover more about myself and my potential.",
-    "category": ["Discovery"]
-  },
-  {
-    "text": "Letting go brings me peace and tranquility.",
-    "category": ["Letting Go"]
-  },
-  {
-    "text": "Positive thinking opens up possibilities in my life.",
-    "category": ["Positive Thinking"]
-  },
-  {
-    "text": "My leadership inspires and motivates others.",
-    "category": ["Leadership"]
-  },
-  {
-    "text": "I trust myself and my journey.",
-    "category": ["Self Respect"]
-  },
-  {
-    "text": "Self-discovery is a lifelong adventure.",
-    "category": ["Discovery"]
-  },
-  {
-    "text": "I let go of past hurts and embrace healing.",
-    "category": ["Letting Go"]
-  },
-  {
-    "text": "Positive thoughts create a positive life.",
-    "category": ["Positive Thinking"]
-  },
-  {
-    "text": "I lead with integrity and purpose.",
-    "category": ["Leadership"]
-  },
-  {
-    "text": "I respect myself and demand respect from others.",
-    "category": ["Self Respect"]
-  },
-  {
-    "text": "I am constantly discovering new and exciting things about myself.",
-    "category": ["Discovery"]
-  },
-  {
-    "text": "Letting go is a path to freedom.",
-    "category": ["Letting Go"]
-  },
-  {
-    "text": "I think positively and create a positive environment.",
-    "category": ["Positive Thinking"]
-  },
-  {
-    "text": "I am a confident and capable leader.",
-    "category": ["Leadership"]
-  },
-  {
-    "text": "I embrace my passions fully and use them to fuel my journey.",
-    "category": ["Passion"]
-  },
-  {
-    "text": "I am resilient and persistent, overcoming any obstacles in my path.",
-    "category": ["Perseverance"]
-  },
-  {
-    "text": "I define my own success and work towards it every day.",
-    "category": ["Success"]
-  },
-  {
-    "text": "I learn and grow from every failure, seeing it as a stepping stone to success.",
-    "category": ["Failure"]
-  },
-  {
-    "text": "I speak to myself with kindness and encouragement, uplifting my spirit.",
-    "category": ["Encouraging Words"]
-  },
-  {
-    "text": "My passions drive me to achieve great things.",
-    "category": ["Passion"]
-  },
-  {
-    "text": "Perseverance is my strength; I never give up.",
-    "category": ["Perseverance"]
-  },
-  {
-    "text": "Success is a journey, not a destination.",
-    "category": ["Success"]
-  },
-  {
-    "text": "Every failure is a lesson that makes me stronger.",
-    "category": ["Failure"]
-  },
-  {
-    "text": "I encourage myself and others with positive words.",
-    "category": ["Encouraging Words"]
-  },
-  {
-    "text": "I pursue my passions with enthusiasm and dedication.",
-    "category": ["Passion"]
-  },
-  {
-    "text": "I persevere through challenges and emerge stronger.",
-    "category": ["Perseverance"]
-  },
-  {
-    "text": "I create my own success through hard work and determination.",
-    "category": ["Success"]
-  },
-  {
-    "text": "Failure is an opportunity to learn and improve.",
-    "category": ["Failure"]
-  },
-  {
-    "text": "My words uplift and inspire those around me.",
-    "category": ["Encouraging Words"]
-  },
-  {
-    "text": "I am passionate about my goals and pursue them with vigor.",
-    "category": ["Passion"]
-  },
-  {
-    "text": "Perseverance helps me achieve my dreams.",
-    "category": ["Perseverance"]
-  },
-  {
-    "text": "Success is mine to create and celebrate.",
-    "category": ["Success"]
-  },
-  {
-    "text": "I turn failures into opportunities for growth.",
-    "category": ["Failure"]
-  },
-  {
-    "text": "I use my words to build up myself and others.",
-    "category": ["Encouraging Words"]
-  },
-  {
-    "text": "I am focused and dedicated to my goals.",
-    "category": ["Focus"]
-  },
-  {
-    "text": "I practice discipline and consistency in all my endeavors.",
-    "category": ["Discipline"]
-  },
-  {
-    "text": "I manage my time effectively, balancing work and rest.",
-    "category": ["Time Management"]
-  },
-  {
-    "text": "I work efficiently, making the most of my resources and time.",
-    "category": ["Efficiency"]
-  },
-  {
-    "text": "I set clear, achievable goals and work towards them with determination.",
-    "category": ["Goal Setting"]
-  },
-  {
-    "text": "I stay organized and prepared, reducing stress and increasing productivity.",
-    "category": ["Organization"]
-  },
-  {
-    "text": "I take action now, overcoming procrastination with ease.",
-    "category": ["Procrastination"]
-  },
-  {
-    "text": "I maintain focus on my priorities and avoid distractions.",
-    "category": ["Focus"]
-  },
-  {
-    "text": "Discipline brings me closer to my dreams.",
-    "category": ["Discipline"]
-  },
-  {
-    "text": "I use my time wisely and productively.",
-    "category": ["Time Management"]
-  },
-  {
-    "text": "Efficiency allows me to achieve more with less effort.",
-    "category": ["Efficiency"]
-  },
-  {
-    "text": "I set goals that are both challenging and achievable.",
-    "category": ["Goal Setting"]
-  },
-  {
-    "text": "Organization brings clarity and peace to my mind.",
-    "category": ["Organization"]
-  },
-  {
-    "text": "I defeat procrastination by taking small, consistent steps.",
-    "category": ["Procrastination"]
-  },
-  {
-    "text": "My focus is unwavering, leading me to success.",
-    "category": ["Focus"]
-  },
-  {
-    "text": "Discipline is the bridge between my goals and accomplishments.",
-    "category": ["Discipline"]
-  },
-  {
-    "text": "I manage my time to create a balanced and fulfilling life.",
-    "category": ["Time Management"]
-  },
-  {
-    "text": "I strive for efficiency in everything I do.",
-    "category": ["Efficiency"]
-  },
-  {
-    "text": "Setting goals helps me stay focused and motivated.",
-    "category": ["Goal Setting"]
-  },
-  {
-    "text": "An organized life is a happy life.",
-    "category": ["Organization"]
-  },
-  {
-    "text": "Procrastination has no place in my life.",
-    "category": ["Procrastination"]
-  },
-  {
-    "text": "I give and receive love freely and abundantly.",
-    "category": ["Love"]
-  },
-  {
-    "text": "I cherish my friends and nurture our connections.",
-    "category": ["Friendship"]
-  },
-  {
-    "text": "I am loyal and trustworthy in all my relationships.",
-    "category": ["Loyalty"]
-  },
-  {
-    "text": "I build trust through honesty and integrity.",
-    "category": ["Trust"]
-  },
-  {
-    "text": "Open communication strengthens my relationships.",
-    "category": ["Communication"]
-  },
-  {
-    "text": "I support and uplift those I care about.",
-    "category": ["Support"]
-  },
-  {
-    "text": "Love is the foundation of all my relationships.",
-    "category": ["Love"]
-  },
-  {
-    "text": "I am surrounded by friends who value and respect me.",
-    "category": ["Friendship"]
-  },
-  {
-    "text": "Loyalty is the cornerstone of my relationships.",
-    "category": ["Loyalty"]
-  },
-  {
-    "text": "Trust is earned through consistent, positive actions.",
-    "category": ["Trust"]
-  },
-  {
-    "text": "I communicate openly and honestly with those I care about.",
-    "category": ["Communication"]
-  },
-  {
-    "text": "I am a source of support for my loved ones.",
-    "category": ["Support"]
-  },
-  {
-    "text": "My relationships are filled with love and respect.",
-    "category": ["Love"]
-  },
-  {
-    "text": "Friendship brings joy and meaning to my life.",
-    "category": ["Friendship"]
-  },
-  {
-    "text": "I am loyal to my friends and family.",
-    "category": ["Loyalty"]
-  },
-  {
-    "text": "I build trust through my actions and words.",
-    "category": ["Trust"]
-  },
-  {
-    "text": "Effective communication is the key to strong relationships.",
-    "category": ["Communication"]
-  },
-  {
-    "text": "I am always there to support those I care about.",
-    "category": ["Support"]
-  },
-  {
-    "text": "Love guides all my interactions and relationships.",
-    "category": ["Love"]
-  },
-  {
-    "text": "I am grateful for the strong friendships in my life.",
-    "category": ["Friendship"]
-  },
-  {
-    "text": "Loyalty and trust are the foundations of my relationships.",
-    "category": ["Loyalty", "Trust"]
-  },
-  {
-    "text": "Honest communication fosters trust and understanding.",
-    "category": ["Communication"]
-  },
-  {
-    "text": "Supporting others brings joy to my heart.",
-    "category": ["Support"]
-  },
-  {
-    "text": "I find happiness in the simple things in life.",
-    "category": ["Happiness"]
-  },
-  {
-    "text": "It's okay to feel sad; it's a part of my growth.",
-    "category": ["Sadness"]
-  },
-  {
-    "text": "I acknowledge my anger and choose to release it peacefully.",
-    "category": ["Anger"]
-  },
-  {
-    "text": "I am strong, even when I feel fear.",
-    "category": ["Fear"]
-  },
-  {
-    "text": "Joy is my natural state of being.",
-    "category": ["Joy"]
-  },
-  {
-    "text": "I am in control of my anxiety and remain calm.",
-    "category": ["Anxiety"]
-  },
-  {
-    "text": "I find calm in the chaos around me.",
-    "category": ["Calm"]
-  },
-  {
-    "text": "Happiness is a choice I make every day.",
-    "category": ["Happiness"]
-  },
-  {
-    "text": "Sadness is temporary and necessary for my personal growth.",
-    "category": ["Sadness"]
-  },
-  {
-    "text": "I channel my anger into positive actions.",
-    "category": ["Anger"]
-  },
-  {
-    "text": "I face my fears and grow stronger every day.",
-    "category": ["Fear"]
-  },
-  {
-    "text": "Joy fills my heart and soul.",
-    "category": ["Joy"]
-  },
-  {
-    "text": "I breathe deeply and release my anxiety.",
-    "category": ["Anxiety"]
-  },
-  {
-    "text": "I remain calm and centered in any situation.",
-    "category": ["Calm"]
-  },
-  {
-    "text": "Happiness flows through me effortlessly.",
-    "category": ["Happiness"]
-  },
-  {
-    "text": "I accept sadness as a part of my emotional spectrum.",
-    "category": ["Sadness"]
-  },
-  {
-    "text": "I transform my anger into productive energy.",
-    "category": ["Anger"]
-  },
-  {
-    "text": "Fear is just a feeling, and I am stronger than it.",
-    "category": ["Fear"]
-  },
-  {
-    "text": "Joy is a natural part of who I am.",
-    "category": ["Joy"]
-  },
-  {
-    "text": "I manage my anxiety with calm and control.",
-    "category": ["Anxiety"]
-  },
-  {
-    "text": "Calmness is my true nature.",
-    "category": ["Calm"]
-  },
-  {
-    "text": "Happiness comes to me naturally and effortlessly.",
-    "category": ["Happiness"]
-  },
-  {
-    "text": "Feeling sad helps me appreciate the happy moments.",
-    "category": ["Sadness"]
-  },
-  {
-    "text": "I handle my anger with grace and understanding.",
-    "category": ["Anger"]
-  },
-  {
-    "text": "I embrace fear and turn it into courage.",
-    "category": ["Fear"]
-  },
-  {
-    "text": "Joy is a constant presence in my life.",
-    "category": ["Joy"]
-  },
-  {
-    "text": "I release anxiety and welcome peace.",
-    "category": ["Anxiety"]
-  },
-  {
-    "text": "I stay calm and composed under pressure.",
-    "category": ["Calm"]
-  },
-  {
-    "text": "I prioritize my wellness every day.",
-    "category": ["Wellness"]
-  },
-  {
-    "text": "Fitness is a part of my daily routine.",
-    "category": ["Fitness"]
-  },
-  {
-    "text": "I nourish my body with healthy and nutritious food.",
-    "category": ["Nutrition"]
-  },
-  {
-    "text": "My mental health is just as important as my physical health.",
-    "category": ["Mental Health"]
-  },
-  {
-    "text": "Self-care is a priority, not a luxury.",
-    "category": ["Self-care"]
-  },
-  {
-    "text": "Wellness is a continuous journey, not a destination.",
-    "category": ["Wellness"]
-  },
-  {
-    "text": "Fitness brings me joy and vitality.",
-    "category": ["Fitness"]
-  },
-  {
-    "text": "I make choices that support my nutrition and health.",
-    "category": ["Nutrition"]
-  },
-  {
-    "text": "I take care of my mental health with compassion and care.",
-    "category": ["Mental Health"]
-  },
-  {
-    "text": "I deserve time for self-care and relaxation.",
-    "category": ["Self-care"]
-  },
-  {
-    "text": "My wellness journey is unique and valuable.",
-    "category": ["Wellness"]
-  },
-  {
-    "text": "Fitness strengthens my body and mind.",
-    "category": ["Fitness"]
-  },
-  {
-    "text": "Healthy nutrition fuels my body and mind.",
-    "category": ["Nutrition"]
-  },
-  {
-    "text": "I am mindful of my mental health and well-being.",
-    "category": ["Mental Health"]
-  },
-  {
-    "text": "Self-care is essential for my happiness and health.",
-    "category": ["Self-care"]
-  },
-  {
-    "text": "I embrace wellness in all aspects of my life.",
-    "category": ["Wellness"]
-  },
-  {
-    "text": "Fitness is a commitment I make to myself every day.",
-    "category": ["Fitness"]
-  },
-  {
-    "text": "I choose foods that support my health and vitality.",
-    "category": ["Nutrition"]
-  },
-  {
-    "text": "Mental health is a priority in my life.",
-    "category": ["Mental Health"]
-  },
-  {
-    "text": "Self-care is a necessary part of my daily routine.",
-    "category": ["Self-care"]
-  },
-  {
-    "text": "My wellness journey is filled with positive choices.",
-    "category": ["Wellness"]
-  },
-  {
-    "text": "Fitness is a joy, not a chore.",
-    "category": ["Fitness"]
-  },
-  {
-    "text": "Nutritious food is the foundation of my health.",
-    "category": ["Nutrition"]
-  },
-  {
-    "text": "I nurture my mental health with care and attention.",
-    "category": ["Mental Health"]
-  },
-  {
-    "text": "Self-care allows me to be my best self.",
-    "category": ["Self-care"]
-  },
-  {
-    "text": "I appreciate my introverted qualities and use them to my advantage.",
-    "category": ["Increase Introversion"]
-  },
-  {
-    "text": "Solitude is a source of strength and creativity for me.",
-    "category": ["Increase Introversion"]
-  },
-  {
-    "text": "I find peace and rejuvenation in my alone time.",
-    "category": ["Increase Introversion"]
-  },
-  {
-    "text": "I embrace my need for quiet and reflection.",
-    "category": ["Increase Introversion"]
-  },
-  {
-    "text": "Being introverted helps me understand myself better.",
-    "category": ["Increase Introversion"]
-  },
-  {
-    "text": "I thrive in environments that allow me to be introspective.",
-    "category": ["Increase Introversion"]
-  },
-  {
-    "text": "My introverted nature is a valuable part of who I am.",
-    "category": ["Increase Introversion"]
-  },
-  {
-    "text": "I use my introversion to develop deep connections with others.",
-    "category": ["Increase Introversion"]
-  },
-  {
-    "text": "My introverted qualities help me focus and achieve my goals.",
-    "category": ["Increase Introversion"]
-  },
-  {
-    "text": "I honor my need for solitude and embrace my introverted side.",
-    "category": ["Increase Introversion"]
-  },
-  {
-    "text": "I embrace my extroverted nature and enjoy socializing.",
-    "category": ["Increase Extroversion"]
-  },
-  {
-    "text": "I thrive in social situations and build strong connections.",
-    "category": ["Increase Extroversion"]
-  },
-  {
-    "text": "I feel energized and alive when interacting with others.",
-    "category": ["Increase Extroversion"]
-  },
-  {
-    "text": "I am confident and outgoing in social settings.",
-    "category": ["Increase Extroversion"]
-  },
-  {
-    "text": "My extroverted qualities help me network and create opportunities.",
-    "category": ["Increase Extroversion"]
-  },
-  {
-    "text": "I enjoy sharing my ideas and experiences with others.",
-    "category": ["Increase Extroversion"]
-  },
-  {
-    "text": "My extroversion brings joy and excitement to my life.",
-    "category": ["Increase Extroversion"]
-  },
-  {
-    "text": "I easily make new friends and connections.",
-    "category": ["Increase Extroversion"]
-  },
-  {
-    "text": "I am comfortable and confident in large groups.",
-    "category": ["Increase Extroversion"]
-  },
-  {
-    "text": "I embrace new social experiences with enthusiasm.",
-    "category": ["Increase Extroversion"]
-  },
-  {
-    "text": "I am calm and resilient in the face of stress.",
-    "category": ["Reducing Neuroticism"]
-  },
-  {
-    "text": "I manage my emotions with ease and grace.",
-    "category": ["Reducing Neuroticism"]
-  },
-  {
-    "text": "I remain positive and optimistic in challenging situations.",
-    "category": ["Reducing Neuroticism"]
-  },
-  {
-    "text": "I trust in my ability to handle life's ups and downs.",
-    "category": ["Reducing Neuroticism"]
-  },
-  {
-    "text": "I approach problems with a calm and rational mind.",
-    "category": ["Reducing Neuroticism"]
-  },
-  {
-    "text": "I let go of worry and embrace peace of mind.",
-    "category": ["Reducing Neuroticism"]
-  },
-  {
-    "text": "I am emotionally stable and grounded.",
-    "category": ["Reducing Neuroticism"]
-  },
-  {
-    "text": "I cultivate a mindset of calm and serenity.",
-    "category": ["Reducing Neuroticism"]
-  },
-  {
-    "text": "I focus on the positive aspects of my life.",
-    "category": ["Reducing Neuroticism"]
-  },
-  {
-    "text": "I handle stress with composure and confidence.",
-    "category": ["Reducing Neuroticism"]
-  }
-]
+{
+  "author": "",
+  "quotes": [
+    {
+      "text": "I embrace my true self and honor my worth.",
+      "category": ["Self Respect"]
+    },
+    {
+      "text": "I am on a journey of self-discovery, and every step brings me closer to who I truly am.",
+      "category": ["Discovery"]
+    },
+    {
+      "text": "I release all that no longer serves me and embrace the freedom that follows.",
+      "category": ["Letting Go"]
+    },
+    {
+      "text": "I choose to see the good in every situation and stay positive.",
+      "category": ["Positive Thinking"]
+    },
+    {
+      "text": "I lead by example, inspiring others with my actions and words.",
+      "category": ["Leadership"]
+    },
+    {
+      "text": "I am worthy of respect and honor.",
+      "category": ["Self Respect"]
+    },
+    {
+      "text": "Every day, I discover more about myself and my potential.",
+      "category": ["Discovery"]
+    },
+    {
+      "text": "Letting go brings me peace and tranquility.",
+      "category": ["Letting Go"]
+    },
+    {
+      "text": "Positive thinking opens up possibilities in my life.",
+      "category": ["Positive Thinking"]
+    },
+    {
+      "text": "My leadership inspires and motivates others.",
+      "category": ["Leadership"]
+    },
+    {
+      "text": "I trust myself and my journey.",
+      "category": ["Self Respect"]
+    },
+    {
+      "text": "Self-discovery is a lifelong adventure.",
+      "category": ["Discovery"]
+    },
+    {
+      "text": "I let go of past hurts and embrace healing.",
+      "category": ["Letting Go"]
+    },
+    {
+      "text": "Positive thoughts create a positive life.",
+      "category": ["Positive Thinking"]
+    },
+    {
+      "text": "I lead with integrity and purpose.",
+      "category": ["Leadership"]
+    },
+    {
+      "text": "I respect myself and demand respect from others.",
+      "category": ["Self Respect"]
+    },
+    {
+      "text": "I am constantly discovering new and exciting things about myself.",
+      "category": ["Discovery"]
+    },
+    {
+      "text": "Letting go is a path to freedom.",
+      "category": ["Letting Go"]
+    },
+    {
+      "text": "I think positively and create a positive environment.",
+      "category": ["Positive Thinking"]
+    },
+    {
+      "text": "I am a confident and capable leader.",
+      "category": ["Leadership"]
+    },
+    {
+      "text": "I embrace my passions fully and use them to fuel my journey.",
+      "category": ["Passion"]
+    },
+    {
+      "text": "I am resilient and persistent, overcoming any obstacles in my path.",
+      "category": ["Perseverance"]
+    },
+    {
+      "text": "I define my own success and work towards it every day.",
+      "category": ["Success"]
+    },
+    {
+      "text": "I learn and grow from every failure, seeing it as a stepping stone to success.",
+      "category": ["Failure"]
+    },
+    {
+      "text": "I speak to myself with kindness and encouragement, uplifting my spirit.",
+      "category": ["Encouraging Words"]
+    },
+    {
+      "text": "My passions drive me to achieve great things.",
+      "category": ["Passion"]
+    },
+    {
+      "text": "Perseverance is my strength; I never give up.",
+      "category": ["Perseverance"]
+    },
+    {
+      "text": "Success is a journey, not a destination.",
+      "category": ["Success"]
+    },
+    {
+      "text": "Every failure is a lesson that makes me stronger.",
+      "category": ["Failure"]
+    },
+    {
+      "text": "I encourage myself and others with positive words.",
+      "category": ["Encouraging Words"]
+    },
+    {
+      "text": "I am focused and dedicated to my goals.",
+      "category": ["Focus"]
+    },
+    {
+      "text": "I practice discipline and consistency in all my endeavors.",
+      "category": ["Discipline"]
+    },
+    {
+      "text": "I manage my time effectively, balancing work and rest.",
+      "category": ["Time Management"]
+    },
+    {
+      "text": "I work efficiently, making the most of my resources and time.",
+      "category": ["Efficiency"]
+    },
+    {
+      "text": "I set clear, achievable goals and work towards them with determination.",
+      "category": ["Goal Setting"]
+    },
+    {
+      "text": "I stay organized and prepared, reducing stress and increasing productivity.",
+      "category": ["Organization"]
+    },
+    {
+      "text": "I take action now, overcoming procrastination with ease.",
+      "category": ["Procrastination"]
+    },
+    {
+      "text": "I maintain focus on my priorities and avoid distractions.",
+      "category": ["Focus"]
+    },
+    {
+      "text": "Discipline brings me closer to my dreams.",
+      "category": ["Discipline"]
+    },
+    {
+      "text": "I use my time wisely and productively.",
+      "category": ["Time Management"]
+    },
+    {
+      "text": "Efficiency allows me to achieve more with less effort.",
+      "category": ["Efficiency"]
+    },
+    {
+      "text": "I set goals that are both challenging and achievable.",
+      "category": ["Goal Setting"]
+    },
+    {
+      "text": "Organization brings clarity and peace to my mind.",
+      "category": ["Organization"]
+    },
+    {
+      "text": "I defeat procrastination by taking small, consistent steps.",
+      "category": ["Procrastination"]
+    },
+    {
+      "text": "My focus is unwavering, leading me to success.",
+      "category": ["Focus"]
+    },
+    {
+      "text": "Discipline is the bridge between my goals and accomplishments.",
+      "category": ["Discipline"]
+    },
+    {
+      "text": "I manage my time to create a balanced and fulfilling life.",
+      "category": ["Time Management"]
+    },
+    {
+      "text": "I strive for efficiency in everything I do.",
+      "category": ["Efficiency"]
+    },
+    {
+      "text": "Setting goals helps me stay focused and motivated.",
+      "category": ["Goal Setting"]
+    },
+    {
+      "text": "An organized life is a happy life.",
+      "category": ["Organization"]
+    },
+    {
+      "text": "Procrastination has no place in my life.",
+      "category": ["Procrastination"]
+    },
+    {
+      "text": "I give and receive love freely and abundantly.",
+      "category": ["Love"]
+    },
+    {
+      "text": "I cherish my friends and nurture our connections.",
+      "category": ["Friendship"]
+    },
+    {
+      "text": "I am loyal and trustworthy in all my relationships.",
+      "category": ["Loyalty"]
+    },
+    {
+      "text": "I build trust through honesty and integrity.",
+      "category": ["Trust"]
+    },
+    {
+      "text": "Open communication strengthens my relationships.",
+      "category": ["Communication"]
+    },
+    {
+      "text": "I support and uplift those I care about.",
+      "category": ["Support"]
+    },
+    {
+      "text": "Love is the foundation of all my relationships.",
+      "category": ["Love"]
+    },
+    {
+      "text": "I am surrounded by friends who value and respect me.",
+      "category": ["Friendship"]
+    },
+    {
+      "text": "Loyalty is the cornerstone of my relationships.",
+      "category": ["Loyalty"]
+    },
+    {
+      "text": "Trust is earned through consistent, positive actions.",
+      "category": ["Trust"]
+    },
+    {
+      "text": "I communicate openly and honestly with those I care about.",
+      "category": ["Communication"]
+    },
+    {
+      "text": "I am a source of support for my loved ones.",
+      "category": ["Support"]
+    },
+    {
+      "text": "My relationships are filled with love and respect.",
+      "category": ["Love"]
+    },
+    {
+      "text": "Friendship brings joy and meaning to my life.",
+      "category": ["Friendship"]
+    },
+    {
+      "text": "I am loyal to my friends and family.",
+      "category": ["Loyalty"]
+    },
+    {
+      "text": "I build trust through my actions and words.",
+      "category": ["Trust"]
+    },
+    {
+      "text": "Effective communication is the key to strong relationships.",
+      "category": ["Communication"]
+    },
+    {
+      "text": "I am always there to support those I care about.",
+      "category": ["Support"]
+    },
+    {
+      "text": "Love guides all my interactions and relationships.",
+      "category": ["Love"]
+    },
+    {
+      "text": "I am grateful for the strong friendships in my life.",
+      "category": ["Friendship"]
+    },
+    {
+      "text": "Loyalty and trust are the foundations of my relationships.",
+      "category": ["Loyalty", "Trust"]
+    },
+    {
+      "text": "Honest communication fosters trust and understanding.",
+      "category": ["Communication"]
+    },
+    {
+      "text": "Supporting others brings joy to my heart.",
+      "category": ["Support"]
+    },
+    {
+      "text": "I find happiness in the simple things in life.",
+      "category": ["Happiness"]
+    },
+    {
+      "text": "It's okay to feel sad; it's a part of my growth.",
+      "category": ["Sadness"]
+    },
+    {
+      "text": "I acknowledge my anger and choose to release it peacefully.",
+      "category": ["Anger"]
+    },
+    {
+      "text": "I am strong, even when I feel fear.",
+      "category": ["Fear"]
+    },
+    {
+      "text": "Joy is my natural state of being.",
+      "category": ["Joy"]
+    },
+    {
+      "text": "I am in control of my anxiety and remain calm.",
+      "category": ["Anxiety"]
+    },
+    {
+      "text": "I find calm in the chaos around me.",
+      "category": ["Calm"]
+    },
+    {
+      "text": "Happiness is a choice I make every day.",
+      "category": ["Happiness"]
+    },
+    {
+      "text": "Sadness is temporary and necessary for my personal growth.",
+      "category": ["Sadness"]
+    },
+    {
+      "text": "I channel my anger into positive actions.",
+      "category": ["Anger"]
+    },
+    {
+      "text": "I face my fears and grow stronger every day.",
+      "category": ["Fear"]
+    },
+    {
+      "text": "Joy fills my heart and soul.",
+      "category": ["Joy"]
+    },
+    {
+      "text": "I breathe deeply and release my anxiety.",
+      "category": ["Anxiety"]
+    },
+    {
+      "text": "I remain calm and centered in any situation.",
+      "category": ["Calm"]
+    },
+    {
+      "text": "Happiness flows through me effortlessly.",
+      "category": ["Happiness"]
+    },
+    {
+      "text": "I accept sadness as a part of my emotional spectrum.",
+      "category": ["Sadness"]
+    },
+    {
+      "text": "I transform my anger into productive energy.",
+      "category": ["Anger"]
+    },
+    {
+      "text": "Fear is just a feeling, and I am stronger than it.",
+      "category": ["Fear"]
+    },
+    {
+      "text": "Joy is a natural part of who I am.",
+      "category": ["Joy"]
+    },
+    {
+      "text": "I manage my anxiety with calm and control.",
+      "category": ["Anxiety"]
+    },
+    {
+      "text": "Calmness is my true nature.",
+      "category": ["Calm"]
+    },
+    {
+      "text": "Happiness comes to me naturally and effortlessly.",
+      "category": ["Happiness"]
+    },
+    {
+      "text": "Feeling sad helps me appreciate the happy moments.",
+      "category": ["Sadness"]
+    },
+    {
+      "text": "I handle my anger with grace and understanding.",
+      "category": ["Anger"]
+    },
+    {
+      "text": "I embrace fear and turn it into courage.",
+      "category": ["Fear"]
+    },
+    {
+      "text": "Joy is a constant presence in my life.",
+      "category": ["Joy"]
+    },
+    {
+      "text": "I release anxiety and welcome peace.",
+      "category": ["Anxiety"]
+    },
+    {
+      "text": "I stay calm and composed under pressure.",
+      "category": ["Calm"]
+    },
+    {
+      "text": "I prioritize my wellness every day.",
+      "category": ["Wellness"]
+    },
+    {
+      "text": "Fitness is a part of my daily routine.",
+      "category": ["Fitness"]
+    },
+    {
+      "text": "I nourish my body with healthy and nutritious food.",
+      "category": ["Nutrition"]
+    },
+    {
+      "text": "My mental health is just as important as my physical health.",
+      "category": ["Mental Health"]
+    },
+    {
+      "text": "Self-care is a priority, not a luxury.",
+      "category": ["Self-care"]
+    },
+    {
+      "text": "Wellness is a continuous journey, not a destination.",
+      "category": ["Wellness"]
+    },
+    {
+      "text": "Fitness brings me joy and vitality.",
+      "category": ["Fitness"]
+    },
+    {
+      "text": "I make choices that support my nutrition and health.",
+      "category": ["Nutrition"]
+    },
+    {
+      "text": "I take care of my mental health with compassion and care.",
+      "category": ["Mental Health"]
+    },
+    {
+      "text": "I deserve time for self-care and relaxation.",
+      "category": ["Self-care"]
+    },
+    {
+      "text": "My wellness journey is unique and valuable.",
+      "category": ["Wellness"]
+    },
+    {
+      "text": "Fitness strengthens my body and mind.",
+      "category": ["Fitness"]
+    },
+    {
+      "text": "Healthy nutrition fuels my body and mind.",
+      "category": ["Nutrition"]
+    },
+    {
+      "text": "I am mindful of my mental health and well-being.",
+      "category": ["Mental Health"]
+    },
+    {
+      "text": "Self-care is essential for my happiness and health.",
+      "category": ["Self-care"]
+    },
+    {
+      "text": "I embrace wellness in all aspects of my life.",
+      "category": ["Wellness"]
+    },
+    {
+      "text": "Fitness is a commitment I make to myself every day.",
+      "category": ["Fitness"]
+    },
+    {
+      "text": "I choose foods that support my health and vitality.",
+      "category": ["Nutrition"]
+    },
+    {
+      "text": "Mental health is a priority in my life.",
+      "category": ["Mental Health"]
+    },
+    {
+      "text": "Self-care is a necessary part of my daily routine.",
+      "category": ["Self-care"]
+    },
+    {
+      "text": "My wellness journey is filled with positive choices.",
+      "category": ["Wellness"]
+    },
+    {
+      "text": "Fitness is a joy, not a chore.",
+      "category": ["Fitness"]
+    },
+    {
+      "text": "Nutritious food is the foundation of my health.",
+      "category": ["Nutrition"]
+    },
+    {
+      "text": "I nurture my mental health with care and attention.",
+      "category": ["Mental Health"]
+    },
+    {
+      "text": "Self-care allows me to be my best self.",
+      "category": ["Self-care"]
+    },
+    {
+      "text": "I appreciate my introverted qualities and use them to my advantage.",
+      "category": ["Increase Introversion"]
+    },
+    {
+      "text": "Solitude is a source of strength and creativity for me.",
+      "category": ["Increase Introversion"]
+    },
+    {
+      "text": "I find peace and rejuvenation in my alone time.",
+      "category": ["Increase Introversion"]
+    },
+    {
+      "text": "I embrace my need for quiet and reflection.",
+      "category": ["Increase Introversion"]
+    },
+    {
+      "text": "Being introverted helps me understand myself better.",
+      "category": ["Increase Introversion"]
+    },
+    {
+      "text": "I thrive in environments that allow me to be introspective.",
+      "category": ["Increase Introversion"]
+    },
+    {
+      "text": "My introverted nature is a valuable part of who I am.",
+      "category": ["Increase Introversion"]
+    },
+    {
+      "text": "I use my introversion to develop deep connections with others.",
+      "category": ["Increase Introversion"]
+    },
+    {
+      "text": "My introverted qualities help me focus and achieve my goals.",
+      "category": ["Increase Introversion"]
+    },
+    {
+      "text": "I honor my need for solitude and embrace my introverted side.",
+      "category": ["Increase Introversion"]
+    },
+    {
+      "text": "I embrace my extroverted nature and enjoy socializing.",
+      "category": ["Increase Extroversion"]
+    },
+    {
+      "text": "I thrive in social situations and build strong connections.",
+      "category": ["Increase Extroversion"]
+    },
+    {
+      "text": "I feel energized and alive when interacting with others.",
+      "category": ["Increase Extroversion"]
+    },
+    {
+      "text": "I am confident and outgoing in social settings.",
+      "category": ["Increase Extroversion"]
+    },
+    {
+      "text": "My extroverted qualities help me network and create opportunities.",
+      "category": ["Increase Extroversion"]
+    },
+    {
+      "text": "I enjoy sharing my ideas and experiences with others.",
+      "category": ["Increase Extroversion"]
+    },
+    {
+      "text": "My extroversion brings joy and excitement to my life.",
+      "category": ["Increase Extroversion"]
+    },
+    {
+      "text": "I easily make new friends and connections.",
+      "category": ["Increase Extroversion"]
+    },
+    {
+      "text": "I am comfortable and confident in large groups.",
+      "category": ["Increase Extroversion"]
+    },
+    {
+      "text": "I embrace new social experiences with enthusiasm.",
+      "category": ["Increase Extroversion"]
+    },
+    {
+      "text": "I am calm and resilient in the face of stress.",
+      "category": ["Reducing Neuroticism"]
+    },
+    {
+      "text": "I manage my emotions with ease and grace.",
+      "category": ["Reducing Neuroticism"]
+    },
+    {
+      "text": "I remain positive and optimistic in challenging situations.",
+      "category": ["Reducing Neuroticism"]
+    },
+    {
+      "text": "I trust in my ability to handle life's ups and downs.",
+      "category": ["Reducing Neuroticism"]
+    },
+    {
+      "text": "I approach problems with a calm and rational mind.",
+      "category": ["Reducing Neuroticism"]
+    },
+    {
+      "text": "I let go of worry and embrace peace of mind.",
+      "category": ["Reducing Neuroticism"]
+    },
+    {
+      "text": "I am emotionally stable and grounded.",
+      "category": ["Reducing Neuroticism"]
+    },
+    {
+      "text": "I cultivate a mindset of calm and serenity.",
+      "category": ["Reducing Neuroticism"]
+    },
+    {
+      "text": "I focus on the positive aspects of my life.",
+      "category": ["Reducing Neuroticism"]
+    },
+    {
+      "text": "I handle stress with composure and confidence.",
+      "category": ["Reducing Neuroticism"]
+    }
+  ]
+}
