@@ -888,6 +888,546 @@
       {
         "text": "Emotional stability comes from understanding and regulating your emotions. Focus on reducing anxiety and increasing resilience.",
         "category": ["Reducing Neuroticism"]
+      },
+        {
+        "text": "Loving yourself is the greatest revolution. When you love yourself, you set the standard for how others should treat you.",
+        "category": ["Love Yourself"]
+      },
+      {
+        "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+        "category": ["Love Yourself"]
+      },
+      {
+        "text": "To love yourself right now, just as you are, is to give yourself heaven. Don’t wait until you die. If you wait, you die now. If you love, you live now.",
+        "category": ["Love Yourself"]
+      },
+      {
+        "text": "Letting go doesn’t mean you’re giving up, but rather you’re making space for something better to come.",
+        "category": ["Letting Go"]
+      },
+      {
+        "text": "Let go of what’s gone, be grateful for what remains, and look forward to what is coming.",
+        "category": ["Letting Go"]
+      },
+      {
+        "text": "You can’t start the next chapter of your life if you keep re-reading the last one. Let go and move forward.",
+        "category": ["Letting Go"]
+      },
+      {
+        "text": "Self-respect is the cornerstone of all virtue. Without it, you cannot love or be loved.",
+        "category": ["Self Respect"]
+      },
+      {
+        "text": "The more you know and respect yourself, the more impact you will have on the people around you.",
+        "category": ["Self Respect"]
+      },
+      {
+        "text": "Respect yourself enough to walk away from anything that no longer serves you, grows you, or makes you happy.",
+        "category": ["Self Respect"]
+      },
+      {
+        "text": "Positive thinking will let you do everything better than negative thinking will.",
+        "category": ["Positive Thinking"]
+      },
+      {
+        "text": "The more you feed your mind with positive thoughts, the more you can attract great things into your life.",
+        "category": ["Positive Thinking"]
+      },
+      {
+        "text": "Positive thinking isn’t about expecting the best to happen every time, but accepting that whatever happens is the best for this moment.",
+        "category": ["Positive Thinking"]
+      },
+      {
+        "text": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+        "category": ["Discovery"]
+      },
+      {
+        "text": "Self-discovery is the most important discovery. It’s about realizing who you truly are and living accordingly.",
+        "category": ["Discovery"]
+      },
+      {
+        "text": "The journey of discovery begins not with new vistas but with having new eyes to see the same old vistas differently.",
+        "category": ["Discovery"]
+      },
+      {
+        "text": "Leadership is not about being in charge. It’s about taking care of those in your charge.",
+        "category": ["Leadership"]
+      },
+      {
+        "text": "The function of leadership is to produce more leaders, not more followers.",
+        "category": ["Leadership"]
+      },
+      {
+        "text": "A true leader has the confidence to stand alone, the courage to make tough decisions, and the compassion to listen to the needs of others.",
+        "category": ["Leadership"]
+      },
+      {
+        "text": "Empowerment is about making someone stronger and more confident, especially in controlling their life and claiming their rights.",
+        "category": ["Women's Empowerment"]
+      },
+      {
+        "text": "The most courageous act is still to think for yourself. Aloud.",
+        "category": ["Women's Empowerment"]
+      },
+      {
+        "text": "Women’s empowerment isn’t a gift given by others; it’s a right that women fight for and achieve themselves.",
+        "category": ["Women's Empowerment"]
+      },
+      {
+        "text": "Passion is energy. Feel the power that comes from focusing on what excites you.",
+        "category": ["Passion"]
+      },
+      {
+        "text": "Follow your passion, be prepared to work hard and sacrifice, and above all, don’t let anyone limit your dreams.",
+        "category": ["Passion"]
+      },
+      {
+        "text": "Passion is the genesis of genius. Let your passion be your guide.",
+        "category": ["Passion"]
+      },
+      {
+        "text": "Perseverance is not a long race; it’s many short races one after the other.",
+        "category": ["Perseverance"]
+      },
+      {
+        "text": "Through perseverance, many people win success out of what seemed destined to be certain failure.",
+        "category": ["Perseverance"]
+      },
+      {
+        "text": "Perseverance is stubbornness with a purpose. Stay committed to your journey.",
+        "category": ["Perseverance"]
+      },
+      {
+        "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "category": ["Success"]
+      },
+      {
+        "text": "Success usually comes to those who are too busy to be looking for it.",
+        "category": ["Success"]
+      },
+      {
+        "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+        "category": ["Success"]
+      },
+      {
+        "text": "Failure is simply the opportunity to begin again, this time more intelligently.",
+        "category": ["Failure"]
+      },
+      {
+        "text": "Failure is not the opposite of success; it’s part of success.",
+        "category": ["Failure"]
+      },
+      {
+        "text": "Do not fear failure but rather fear not trying.",
+        "category": ["Failure"]
+      },
+      {
+        "text": "A word of encouragement during a failure is worth more than an hour of praise after success.",
+        "category": ["Encouraging Words"]
+      },
+      {
+        "text": "Encouraging words can be short and easy to speak, but their echoes are truly endless.",
+        "category": ["Encouraging Words"]
+      },
+      {
+        "text": "Sometimes, the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe and have faith that everything will work out for the best.",
+        "category": ["Encouraging Words"]
+      },
+      {
+        "text": "Focus on the step in front of you, not the whole staircase. One step at a time leads to big achievements.",
+        "category": ["Focus"]
+      },
+      {
+        "text": "Focus on the solution, not on the problem. Keep your mind positive and solutions-oriented.",
+        "category": ["Focus"]
+      },
+      {
+        "text": "Where focus goes, energy flows. Stay focused on your goals.",
+        "category": ["Focus"]
+      },
+      {
+        "text": "Discipline is the bridge between goals and accomplishment. Stay disciplined to reach your dreams.",
+        "category": ["Discipline"]
+      },
+      {
+        "text": "Discipline is choosing between what you want now and what you want most.",
+        "category": ["Discipline"]
+      },
+      {
+        "text": "Discipline is doing what needs to be done, even if you don’t want to do it.",
+        "category": ["Discipline"]
+      },
+      {
+        "text": "Time management is not about having enough time; it’s about making enough time.",
+        "category": ["Time Management"]
+      },
+      {
+        "text": "The key to time management is staying focused and staying on task.",
+        "category": ["Time Management"]
+      },
+      {
+        "text": "Time management is life management. It’s about making the most of your days.",
+        "category": ["Time Management"]
+      },
+      {
+        "text": "Efficiency is doing things right; effectiveness is doing the right things.",
+        "category": ["Efficiency"]
+      },
+      {
+        "text": "Efficiency is about getting the most out of every moment and every action.",
+        "category": ["Efficiency"]
+      },
+      {
+        "text": "Efficiency is the ability to do more with less effort, time, and resources.",
+        "category": ["Efficiency"]
+      },
+      {
+        "text": "Setting goals is the first step in turning the invisible into the visible.",
+        "category": ["Goal Setting"]
+      },
+      {
+        "text": "A goal without a plan is just a wish. Set clear goals and work towards them daily.",
+        "category": ["Goal Setting"]
+      },
+      {
+        "text": "The trouble with not having a goal is that you can spend your life running up and down the field and never score.",
+        "category": ["Goal Setting"]
+      },
+      {
+        "text": "Organization isn’t about perfection; it’s about efficiency, reducing stress, and improving your overall quality of life.",
+        "category": ["Organization"]
+      },
+      {
+        "text": "For every minute spent organizing, an hour is earned. Invest time in organization.",
+        "category": ["Organization"]
+      },
+      {
+        "text": "Organization is a journey, not a destination. Stay organized to stay ahead.",
+        "category": ["Organization"]
+      },
+      {
+        "text": "Procrastination is the thief of time. Start now, not later.",
+        "category": ["Procrastination"]
+      },
+      {
+        "text": "The best way to get something done is to begin. Procrastination only delays progress.",
+        "category": ["Procrastination"]
+      },
+      {
+        "text": "Procrastination makes easy things hard, hard things harder. Take action and make progress.",
+        "category": ["Procrastination"]
+      },
+      {
+        "text": "True love isn't found, it's built. It's the daily commitment to choose each other, despite the flaws and imperfections.",
+        "category": ["Love"]
+      },
+      {
+        "text": "Love is not about possession. It's about appreciation. Cherish the moments, and let love flow freely.",
+        "category": ["Love"]
+      },
+      {
+        "text": "Love yourself first because that's who you'll be spending the rest of your life with. Your relationship with yourself sets the tone for every other relationship.",
+        "category": ["Love"]
+      },
+      {
+        "text": "Friendship is not about whom you have known the longest. It's about who came and never left your side.",
+        "category": ["Friendship"]
+      },
+      {
+        "text": "A real friend is one who walks in when the rest of the world walks out. Cherish those who stay.",
+        "category": ["Friendship"]
+      },
+      {
+        "text": "True friendship isn't about being inseparable, but about being separated and finding nothing changes.",
+        "category": ["Friendship"]
+      },
+      {
+        "text": "Loyalty means giving your best to something or someone, even when it's not convenient. It's about staying true to your values and commitments.",
+        "category": ["Loyalty"]
+      },
+      {
+        "text": "Loyalty is rare. If you find it, keep it. If you offer it, stay true to it.",
+        "category": ["Loyalty"]
+      },
+      {
+        "text": "Loyalty isn't grey. It's black and white. You're either loyal completely, or not loyal at all.",
+        "category": ["Loyalty"]
+      },
+      {
+        "text": "Trust is like glass. Once broken, it never returns to its original state. Handle with care.",
+        "category": ["Trust"]
+      },
+      {
+        "text": "It takes years to build trust, seconds to break it, and forever to repair. Value the trust you've built.",
+        "category": ["Trust"]
+      },
+      {
+        "text": "Trust is the foundation of any relationship. Without it, nothing stands firm.",
+        "category": ["Trust"]
+      },
+      {
+        "text": "Communication is the lifeline of any relationship. When words are clear, understanding flows easily.",
+        "category": ["Communication"]
+      },
+      {
+        "text": "The most important thing in communication is hearing what isn’t said. Listen with your heart.",
+        "category": ["Communication"]
+      },
+      {
+        "text": "Effective communication is built on the cement of trust and the steel of respect.",
+        "category": ["Communication"]
+      },
+      {
+        "text": "Support means being there for someone even when you don't agree with their choices. It's about unconditional presence.",
+        "category": ["Support"]
+      },
+      {
+        "text": "In the end, we will remember not the words of our enemies, but the silence of our friends. Be the support others need.",
+        "category": ["Support"]
+      },
+      {
+        "text": "Supporting someone doesn’t mean you agree with them. It means you care more about them than your ego.",
+        "category": ["Support"]
+      },
+      {
+        "text": "Ancient Greek philosophy teaches us that happiness is achieved through virtue and wisdom.",
+        "category": ["Ancient Greek"]
+      },
+      {
+        "text": "The ancient Greeks believed that knowing yourself is the beginning of all wisdom.",
+        "category": ["Ancient Greek"]
+      },
+      {
+        "text": "Greek philosophers like Socrates taught that an unexamined life is not worth living. Reflect on your life to live it fully.",
+        "category": ["Ancient Greek"]
+      },
+      {
+        "text": "Stoicism teaches that we can't control external events, only our responses to them. Find peace in acceptance.",
+        "category": ["Stoicism"]
+      },
+      {
+        "text": "According to Stoicism, true happiness comes from within and is achieved through virtue and self-control.",
+        "category": ["Stoicism"]
+      },
+      {
+        "text": "Stoic wisdom reminds us that suffering comes from trying to control what is uncontrollable, and peace comes from acceptance.",
+        "category": ["Stoicism"]
+      },
+      {
+        "text": "Latin authors often spoke of carpe diem – seize the day. Live fully in the present moment.",
+        "category": ["Latin Authors"]
+      },
+      {
+        "text": "Latin wisdom tells us that fortune favors the bold. Take risks and step out of your comfort zone.",
+        "category": ["Latin Authors"]
+      },
+      {
+        "text": "From Latin literature, we learn that our greatest glory is not in never falling, but in rising every time we fall.",
+        "category": ["Latin Authors"]
+      },
+      {
+        "text": "German philosophy often explores the idea that understanding comes from questioning and critical thinking. Always seek deeper knowledge.",
+        "category": ["German"]
+      },
+      {
+        "text": "Nietzsche, a German philosopher, taught that what does not kill us makes us stronger. Embrace challenges as growth opportunities.",
+        "category": ["German"]
+      },
+      {
+        "text": "German thinkers like Kant emphasized the importance of living a moral life and acting according to principles. Let ethics guide your actions.",
+        "category": ["German"]
+      },
+      {
+        "text": "Pre-Socratic philosophers believed that everything is interconnected and constantly changing. Embrace the flow of life.",
+        "category": ["Pre-Socratic"]
+      },
+      {
+        "text": "Pre-Socratic wisdom teaches that understanding the nature of the universe begins with understanding the nature of oneself.",
+        "category": ["Pre-Socratic"]
+      },
+      {
+        "text": "The Pre-Socratics remind us that the only constant in life is change. Adaptability is key to thriving.",
+        "category": ["Pre-Socratic"]
+      },
+      {
+        "text": "Happiness is not about getting all you want, it is about enjoying all you have.",
+        "category": ["Happiness"]
+      },
+      {
+        "text": "The secret to happiness is freedom. The secret to freedom is courage.",
+        "category": ["Happiness"]
+      },
+      {
+        "text": "Happiness is found when you stop comparing yourself to other people. Be happy with what you have while working for what you want.",
+        "category": ["Happiness"]
+      },
+      {
+        "text": "Sadness flies away on the wings of time. Allow yourself to feel, and then allow yourself to heal.",
+        "category": ["Sadness"]
+      },
+      {
+        "text": "Tears come from the heart and not from the brain. It's okay to feel sad and to cry.",
+        "category": ["Sadness"]
+      },
+      {
+        "text": "Sadness is but a wall between two gardens. After every storm comes a rainbow.",
+        "category": ["Sadness"]
+      },
+      {
+        "text": "Anger is a valid emotion. It's only destructive when it becomes your master instead of your servant.",
+        "category": ["Anger"]
+      },
+      {
+        "text": "Anger doesn't solve anything. It builds nothing, but it can destroy everything.",
+        "category": ["Anger"]
+      },
+      {
+        "text": "Control your anger, for it is just one letter away from danger.",
+        "category": ["Anger"]
+      },
+      {
+        "text": "Fear is a natural reaction to moving closer to the truth. Don't let it paralyze you.",
+        "category": ["Fear"]
+      },
+      {
+        "text": "Fear is temporary. Regret is forever. Face your fears and live a life without regrets.",
+        "category": ["Fear"]
+      },
+      {
+        "text": "Do not let your fears choose your destiny. Be brave and take control.",
+        "category": ["Fear"]
+      },
+      {
+        "text": "Joy is not in things; it is in us. Cultivate joy from within and watch it spread to your surroundings.",
+        "category": ["Joy"]
+      },
+      {
+        "text": "Find joy in the journey, not just the destination. Enjoy each step you take.",
+        "category": ["Joy"]
+      },
+      {
+        "text": "Joy is the simplest form of gratitude. Appreciate the small things and joy will follow.",
+        "category": ["Joy"]
+      },
+      {
+        "text": "Anxiety does not empty tomorrow of its sorrows, but only empties today of its strength. Stay present.",
+        "category": ["Anxiety"]
+      },
+      {
+        "text": "Anxiety happens when you think you have to figure out everything all at once. Breathe. You are strong. You got this.",
+        "category": ["Anxiety"]
+      },
+      {
+        "text": "Worrying is like a rocking chair. It gives you something to do but doesn't get you anywhere. Let it go.",
+        "category": ["Anxiety"]
+      },
+      {
+        "text": "Calmness is the cradle of power. Find your inner peace and let it guide you through life's storms.",
+        "category": ["Calm"]
+      },
+      {
+        "text": "Calm mind brings inner strength and self-confidence. That's very important for good health.",
+        "category": ["Calm"]
+      },
+      {
+        "text": "In the midst of movement and chaos, keep stillness inside of you. Your calm is your strength.",
+        "category": ["Calm"]
+      },
+      {
+        "text": "Wellness is not a destination, but a journey. Embrace each step you take towards a healthier you.",
+        "category": ["Wellness"]
+      },
+      {
+        "text": "Wellness encompasses a healthy body, a sound mind, and a tranquil spirit. Enjoy the journey as you strive for wellness.",
+        "category": ["Wellness"]
+      },
+      {
+        "text": "Wellness is the complete integration of body, mind, and spirit. The realization that everything we do, think, feel, and believe has an effect on our state of well-being.",
+        "category": ["Wellness"]
+      },
+      {
+        "text": "Fitness is not about being better than someone else; it's about being better than you used to be.",
+        "category": ["Fitness"]
+      },
+      {
+        "text": "The body achieves what the mind believes. Stay focused, stay committed.",
+        "category": ["Fitness"]
+      },
+      {
+        "text": "Fitness is like a relationship. You can’t cheat and expect it to work. Consistency is key.",
+        "category": ["Fitness"]
+      },
+      {
+        "text": "Nutrition is not just about eating, it's about learning to live. Eat to nourish your body and soul.",
+        "category": ["Nutrition"]
+      },
+      {
+        "text": "Proper nutrition is the foundation of a healthy life. What you put into your body directly affects how you feel and function.",
+        "category": ["Nutrition"]
+      },
+      {
+        "text": "You are what you eat, so don't be fast, cheap, easy, or fake. Choose wisely.",
+        "category": ["Nutrition"]
+      },
+      {
+        "text": "Mental health is not a destination, but a process. It’s about how you drive, not where you’re going.",
+        "category": ["Mental Health"]
+      },
+      {
+        "text": "Taking care of your mental health is a sign of strength, not weakness. Prioritize your well-being.",
+        "category": ["Mental Health"]
+      },
+      {
+        "text": "Your mental health is a priority. Your happiness is an essential. Your self-care is a necessity.",
+        "category": ["Mental Health"]
+      },
+      {
+        "text": "Self-care is not selfish. You cannot serve from an empty vessel. Take time to replenish your spirit.",
+        "category": ["Self-care"]
+      },
+      {
+        "text": "Self-care means giving yourself permission to pause. It’s about taking time to recharge and renew.",
+        "category": ["Self-care"]
+      },
+      {
+        "text": "Self-care is how you take your power back. It’s about making choices that nurture your soul.",
+        "category": ["Self-care"]
+      },
+      {
+        "text": "Introversion is not a flaw. It's a strength that allows you to understand and appreciate the world in a unique way. Embrace your quiet nature.",
+        "category": ["Increase Introversion"]
+      },
+      {
+        "text": "Introversion is your superpower. Use it to your advantage. Embrace the peace that comes with solitude.",
+        "category": ["Increase Introversion"]
+      },
+      {
+        "text": "Being introverted doesn't mean you're antisocial; it means you find strength in your own company. Cherish your solitude.",
+        "category": ["Increase Introversion"]
+      },
+      {
+        "text": "Extroversion is a gift that enables you to connect with others and spread positivity. Use your energy to make meaningful connections.",
+        "category": ["Increase Extroversion"]
+      },
+      {
+        "text": "Extroversion opens doors to new experiences and connections. Embrace the energy you get from social interactions.",
+        "category": ["Increase Extroversion"]
+      },
+      {
+        "text": "Being extroverted means you thrive on interaction and energy exchange. Use your social skills to build bridges and form strong bonds.",
+        "category": ["Increase Extroversion"]
+      },
+      {
+        "text": "Reducing neuroticism starts with acknowledging your feelings and working through them. It's about finding peace in the chaos of your mind.",
+        "category": ["Reducing Neuroticism"]
+      },
+      {
+        "text": "Reducing neuroticism involves managing stress and maintaining emotional stability. Practice mindfulness and self-compassion.",
+        "category": ["Reducing Neuroticism"]
+      },
+      {
+        "text": "Emotional stability comes from understanding and regulating your emotions. Focus on reducing anxiety and increasing resilience.",
+        "category": ["Reducing Neuroticism"]
       }
     ]
   }
