@@ -631,8 +631,172 @@
       "text": "I handle stress with composure and confidence.",
       "category": ["Reducing Neuroticism"]
     }
-            
-            
-]
-    }
         ]
+    },
+    {
+    "author": "Life Wisdom",
+    "type": "",
+    "quotes": [
+      {
+        "text": "Nobody's worth stressing over. People come and go; move on and find yourself.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "You don't have to figure everything out today. Take your time and be patient.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "The journey to self-discovery is long, but every step you take brings you closer to your true self.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "Letting go doesn't mean giving up, it means making room for something better.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "Positive thinking doesn't mean ignoring the negative, it means overcoming it.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "Every failure is a stepping stone to success. Keep moving forward.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Passion is the fuel that drives your dreams. Never lose it.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Perseverance is not about the end goal; it's about the journey you take to get there.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Encouraging words are like a lifeline. They can lift you up when you are down.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Focus on your goals, and distractions will fade away.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Discipline is doing what needs to be done, even when you don't want to do it.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Time management is not about doing more; it's about doing what matters.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Efficiency is about doing things right; effectiveness is about doing the right things.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Procrastination is the thief of time. Start now, not later.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Loving someone you don't see every day is just proof that love is in the heart.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "True friendship isn't about being inseparable, it's being separated and nothing changes.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "Trust is built with consistency and broken with inconsistency.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "Effective communication is the bridge between confusion and clarity.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "Supporting each other is what makes relationships strong and enduring.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "Ancient wisdom teaches us that the only constant in life is change.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "Stoicism reminds us that we can't control what happens, but we can control how we respond.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "Latin authors often said, 'Carpe Diem' – seize the day.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "German philosophy encourages us to seek understanding and question everything.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "Pre-Socratic thinkers believed that everything is interconnected and ever-changing.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "Happiness is not a destination, it's a way of life.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Sadness is a part of life; embrace it and learn from it.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Anger is a valid emotion, but don't let it control you.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Fear is temporary; regret is forever.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Joy comes from appreciating the small moments in life.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Wellness is a journey, not a destination.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Fitness is not about being better than someone else; it's about being better than you used to be.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Nutrition is not just about eating, it's about learning to live.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Mental health is just as important as physical health.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Self-care is giving the world the best of you, instead of what's left of you.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Increasing introversion can help you understand and appreciate solitude.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Increasing extroversion can open new social opportunities and experiences.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Reducing neuroticism involves managing stress and maintaining emotional stability.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Embrace your introverted qualities; they are a part of who you are.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Extroversion is about finding energy in interactions with others.",
+        "category": ["Personality Development"]
+      }
+    ]
+  }
+]
