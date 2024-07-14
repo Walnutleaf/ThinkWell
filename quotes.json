@@ -796,6 +796,326 @@
       {
         "text": "Extroversion is about finding energy in interactions with others.",
         "category": ["Personality Development"]
+      },
+        {
+        "text": "Growth begins at the end of your comfort zone.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "The only way to grow is to challenge yourself.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "Let go of who you think you should be, embrace who you are.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "Positive thoughts create a positive life.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "Self-respect permeates every aspect of your life.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "Embrace the journey, even if it’s different from what you expected.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "Your potential is endless. Keep going.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "True growth happens when you embrace change.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "Focus on progress, not perfection.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "Leadership is about making others better as a result of your presence.",
+        "category": ["Personal Growth"]
+      },
+      {
+        "text": "Believe you can and you’re halfway there.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Dream big and dare to fail.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Success is not the key to happiness. Happiness is the key to success.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "You are stronger than you think.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "The only limit to our realization of tomorrow is our doubts of today.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Your only limit is you.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Turn your wounds into wisdom.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Your passion is waiting for your courage to catch up.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Push yourself, because no one else is going to do it for you.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "Success is a state of mind. If you want success, start thinking of yourself as a success.",
+        "category": ["Motivational"]
+      },
+      {
+        "text": "The way to get started is to quit talking and begin doing.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "The secret of getting ahead is getting started.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Productivity is never an accident. It is always the result of a commitment to excellence.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Start where you are. Use what you have. Do what you can.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Success is the sum of small efforts, repeated day-in and day-out.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Focus on being productive instead of busy.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Your time is limited, so don’t waste it living someone else’s life.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Efficiency is doing things right; effectiveness is doing the right things.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Do something today that your future self will thank you for.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Great things never come from comfort zones.",
+        "category": ["Productivity"]
+      },
+      {
+        "text": "Love is not about possession, it’s about appreciation.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "True love is not about perfection, it is about accepting imperfections.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "Friendship is born at that moment when one person says to another, 'You too? I thought I was the only one.'",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "The best relationships are the ones where you don’t have to hide your true self.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "A true friend accepts who you are, but also helps you become who you should be.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "The most important thing in communication is hearing what isn’t said.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "Love doesn’t need to be perfect, it just needs to be true.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "The greatest gift of life is friendship, and I have received it.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "Trust is the glue of life. It’s the most essential ingredient in effective communication.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "True friends are never apart, maybe in distance but never in heart.",
+        "category": ["Relationships"]
+      },
+      {
+        "text": "The only true wisdom is in knowing you know nothing.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "Life is really simple, but we insist on making it complicated.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "The journey of a thousand miles begins with one step.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "He who knows, does not speak. He who speaks, does not know.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "The only constant in life is change.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "Knowing yourself is the beginning of all wisdom.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "It is not the length of life, but the depth.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "Life is a balance of holding on and letting go.",
+        "category": ["Philosophical"]
+      },
+      {
+        "text": "Happiness is not a goal; it is a by-product.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "It’s okay to be a glow stick: Sometimes we need to break before we shine.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Anger doesn’t solve anything. It builds nothing, but it can destroy everything.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Do not let your fears choose your destiny.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Joy is the simplest form of gratitude.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Happiness is a journey, not a destination.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Even a happy life cannot be without a measure of darkness.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Fear has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Joy does not simply happen to us. We have to choose joy and keep choosing it every day.",
+        "category": ["Moods"]
+      },
+      {
+        "text": "Wellness is not just about being free from illness; it is a holistic approach to health.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Your body hears everything your mind says. Stay positive.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Nutrition is about nourishing the body, not just filling it.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Taking care of your mental health is a sign of strength, not weakness.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Self-care is giving yourself permission to pause.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Fitness is not about being better than someone else; it’s about being better than you used to be.",
+        "category": ["Health"]
+      },
+      {
+        "text": "What you eat can either be the safest and most powerful form of medicine or the slowest form of poison.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Mental health needs a great deal of attention. It’s the final taboo and it needs to be faced and dealt with.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Taking time to do nothing often brings everything into perspective.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Wellness encompasses a healthy body, a sound mind, and a tranquil spirit.",
+        "category": ["Health"]
+      },
+      {
+        "text": "Introversion is not a weakness; it's a strength to cherish your own company.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Extroversion opens doors to new experiences and connections.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Reducing neuroticism starts with practicing self-compassion and mindfulness.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Introverts have a special power to observe and understand.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Extroverts energize the room with their enthusiasm and presence.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Balancing introversion and extroversion leads to a well-rounded personality.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Self-improvement is about progress, not perfection.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Embrace who you are and who you want to be.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Developing your personality is a lifelong journey.",
+        "category": ["Personality Development"]
+      },
+      {
+        "text": "Introversion is your superpower. Use it to your advantage.",
+        "category": ["Personality Development"]
       }
     ]
   }
